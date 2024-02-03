@@ -4,6 +4,15 @@ Beta5.0 Release Documentation -- Readme.txt
 http://www.counter-strike.net
 ______________________________________
 
+BETA 5.2
+[1.10.00]
+
+- Fixed crashing bugs 
+- Implemented a new lower bandwidth chasecam
+- Prevented players from changing name when they're dead
+- Fixed scoreboard not showing 20 players
+- Show scoreboard at the end of the map rotation
+
 BETA 5.0
 [12.23.99]
 

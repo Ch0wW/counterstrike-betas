@@ -55,6 +55,8 @@ After installing Counter-Strike, you will want to activate it through the Half-L
 
 The next thing you will want to do is familiarize yourself with the mapping of the game <A HREF="#Controls">controls</A> on your keyboard/mouse. Choose ‘configuration-&gt;<A HREF="#Controls">controls</A>’ and look over the default keyboard configuration. To change any of the default mappings, double-click on the key/button field in the window. You will then be able to enter your desired key for that function. (A warning; if the new key/button was previously mapped to another function, you will need to select a new key for that function, as it will no longer have a key mapping).<P>
 
+You will also want to make sure that your network connection is configured properly.  Go to the Internet Games screen and click on the drop down menu under "Internet Connection Speed".  Highlight your connection speed and click to configure your networking.  You can also configure this in-game with the console command <A HREF="#Rate">rate</a>.<P>
+
 If you have no previous experience with Half-Life, it is strongly recommended that you play the excellent tutorial included with that game.
 
 See the ‘<A HREF="#Controls">Controls</A>’ section below for a description of what each game <A HREF="#Controls">control</A> does.<BR><BR>
@@ -845,6 +847,7 @@ Counter-Strike strives for realism. Running into a firefight all gung-ho will ge
 
 <B>Know Your Gun</B><BR>
 Counter-Strike has realistically modeled weaponry. If you run and fire at the same time, your accuracy will be horrible (changes with different guns), Standing still increases accuracy and crouching is even better. Also be aware of the guns recoil, holding down the trigger isn’t as effective as short quick bursts. It is also important to know that all the rifles can shoot through walls to some extent. The Para Machine Gun, and the Desert Eagle Pistol can as well.<BR><BR>
+
 </TD>
 </TR>
 
@@ -858,6 +861,7 @@ Counter-Strike has realistically modeled weaponry. If you run and fire at the sa
 <IMG SRC="images/Dot.gif" WIDTH="15" HEIGHT="5" BORDER="0">
 </TD>
 <TD>
+<A NAME="Console"></A>
 <B>Console Commands</B><BR>
 These can be entered during the game by typing them in the console. The default key to bring down the console is &lt;`&gt;(the tilde key ~). The following is a list of all available Counter Strike specific console commands<P>
 
@@ -905,6 +909,11 @@ sv_sendvelocity (default 0)<BR>
 
 <B>Client Options</B><BR>
 Anyone can use these to alter their personal settings.<P>
+
+<A NAME="Rate"></A>
+rate (default 2500)<BR>
+<DD> This command controls how much information you recieve from the server you are connected to.  For a 14.4 connection set your rate to 1500, a 33.6k connection should be 3000, a 56k 3500, an ISDN should be 5000, and all connections faster than that 
+should be between 5000 and 9999.<P>  
 
 cl_observercrosshair (default 1)<BR>
 <DD>Set to 1 to enable crosshairs in Observer mode, 0 to disable.<P>

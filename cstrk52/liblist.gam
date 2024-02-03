@@ -1,7 +1,7 @@
 game "Counterstrike"
 url_info "http://www.counter-strike.net/"
 url_dl ""
-version "Beta 5.0"
+version "Beta 5.2"
 size "33958045"
 svonly "0"
 cldll "1" 
