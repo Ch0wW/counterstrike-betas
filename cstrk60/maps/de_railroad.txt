@@ -1,0 +1,18 @@
+Railroad - Bomb/Defuse
+by KaRRiLLioN (JHCorwin@pageinc.org)
+& Lestat
+textures by Scud
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the train or the bridge.  
+Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the train or the bridge.
+
+Other Notes: There are multiple routes to 
+targets and controllable trains that can 
+be used for an advantage.
+
+(Press FIRE to continue)

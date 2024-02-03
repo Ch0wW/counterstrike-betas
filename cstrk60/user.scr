@@ -1,0 +1,96 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// User options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Sun Feb 27 07:47:40 PM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION INFO_OPTIONS
+{
+	"mp_decals"
+	{
+		"Multiplayer decal limit"
+		{ NUMBER 0.000000 4096.000000 }
+		{ "300.000000" }
+	}
+
+	"ah"
+	{
+		"Auto-help"
+		{ BOOL }
+		{ "1" }
+		SetInfo
+	}
+
+	"lefthand"
+	{
+		"Left-handed weapon models"
+		{ BOOL }
+		{ "0" }
+		SetInfo
+	}
+
+	"dm"
+	{
+		"Map briefings"
+		{ BOOL }
+		{ "1" }
+		SetInfo
+	}
+
+	"hud_centerid"
+	{
+		"Center player names"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_observercrosshair"
+	{
+		"Observer crosshair"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_hidefrags"
+	{
+		"Hide other players' frags"
+		{ BOOL }
+		{ "1" }
+	}
+
+}

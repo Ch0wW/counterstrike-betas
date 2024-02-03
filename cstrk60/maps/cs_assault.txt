@@ -1,0 +1,16 @@
+Assault - Hostage Rescue
+by CryptR (lmuur@dlc.fi)
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages. The Terrorists may be watching
+you with their cameras.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. Use
+whatever force needed.
+
+Other Notes: There are 4 hostages in 
+the mission. Rescue them!
+
+(Press FIRE to continue)
