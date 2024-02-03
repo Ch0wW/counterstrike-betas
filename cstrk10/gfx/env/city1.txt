@@ -1,0 +1,67 @@
+================================================================
+Title                   : city1
+Filename                : city1.zip
+Author(s)               : Jason Abbott
+Email Address           : jasona@brimstone.com
+Homepage		: http://www.brimstone.com/quake2
+Description             : Dark cold skyscraper filled city
+Installation		: unzip to: Quake2\baseq2
+
+Additional Credits to   : ID Software for Quake2
+			  The many online style/help pages for
+                              level editing, notably Rust and
+			      the Gamasutra Env map page
+
+================================================================
+* Play Information *
+----------------------------------------------------------------
+
+Software needed to play : Quake2 registered version
+
+Viewing Instructions: At the command line prompt type
+		      "sky woebane/city1"
+
+----------------------------------------------------------------
+* Construction *
+----------------------------------------------------------------
+
+Build Time      : 1 full day
+System Used     : K6 233 w/64MB RAM  
+Tools           : Bryce3, Fractal Painter 5, SkyPaintGE
+Date Finished   : Feb 25th, 1999
+
+other skies by the author : the eskoth sky pack (10 skies)
+			    the bard sky pack (10 skies)
+
+Known Bugs      : none
+
+What worked      : 1) Tall sky scrapers as companions looks nice
+		   2) Some of the skyscraper textures I can use
+
+What didn't work : 1) Clearly a first attempt at a city scene
+		   2) Needs more detail
+		   3) Needs more lights
+
+----------------------------------------------------------------
+* Legal Stuff *
+----------------------------------------------------------------
+
+You MAY distribute this sky, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. If you intend to use this sky in any way (TC's, Mission 
+Packs, CD's, Freebee's, etc.) please contact me.
+
+You MAY include this environments in any map that you give away.
+
+I request that you keep the path for the sky (env/woebane/*) but
+I do not insist on it.
+
+If you want to do more than just give away the sky, please contact
+me first.
+
+----------------------------------------------------------------
+** Where to get the environments **
+----------------------------------------------------------------
+
+http://www.brimstone.com/quake2/local/env

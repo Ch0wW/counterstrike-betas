@@ -1,0 +1,250 @@
+*-----------------------------------------------------*
+| Counter-Strike Weapon/Item Information	      |
+*-----------------------------------------------------*
+					by Poseidon
+
+WEAPONS
+
+
+Close Combat:
+
+*SOON TO COME* Bundwehsr Advanced Combat Knife (B.A.C.K.) *SOON TO COME*
+------------------------------------------------------------------------
+A deadly combat knife used mainly by German anti-terrorist forces, it has been adapted for Counter-Strike use. It is quite powerful, and can kill in a good stab. Backstabbing also helps boost your ego as well. You will need to be tactical with this, or there's no point in using it. Good for the guerillas and butchers out there.
+
+Cost: N/A
+Mag size: N/A
+Power: Very High
+Range: Very Close
+Accuracy: N/A
+Ammo: None
+Reload speed: N/A
+Cyclic rate: TBD
+
+
+Handguns:
+
+Heckler & Koch USP .45 Tactical
+-------------------------------
+This is the primary weapon of the Counter-Terrorists (CTs). It has a fairly quick fire rate
+and adequate power make this a formidable weapon, and you always have it. Usually an up-close
+headshot will make anyone's day. It is, however, overpowered by some of the more expensive
+weapons, such as the G3/SG-1, M249 PARA, and M4. Also able to be equipped with a silencer and/or
+laser sight.
+
+Cost: 400 dollars
+Mag size: 12 rounds
+Secondary fire: No
+Power: Medium
+Range: Medium
+Accuracy: Medium
+Ammo: .45 ACP (12-round clips)
+Reload speed: Quick
+Cyclic rate: Medium
+
+
+Glock 18 Select Fire
+--------------------
+The main pistol of the Terrorists (tangos), it provides an equal punch to the USP. While using
+fairly weak 9mm slugs, it makes up for it by firing 3 rounds in less than a second. Although
+not very useful at ranges, once you get up close, you can tear someone up with two or three
+bursts.
+
+Cost: 400 dollars
+Mag size: 20 rounds
+Secondary fire: No
+Power: Medium (1 shot)/High (3 shots)
+Range: Short
+Accuracy: Medium
+Ammo: 9mm (30-round mags)
+Reload speed: Quick
+Cyclic rate: Very high (bursts)/Slow (between bursts)
+
+
+Shotguns:
+
+Benelli M3 Super 90 Combat Shotgun
+----------------------------------
+The granddaddy of FPS games, the shotgun makes its return in Counter-Strike as the M3. Slow and short-ranged, its real advantage is its power. The M3 can put down even the toughest of adversaries with a single shot. Be warned, however, as it's range is very limited and may take multiple shells at medium range, and for the l33t people out there...sorry, no sniping with this thing.
+
+Cost: 1250 dollars
+Mag size: 8 shells
+Secondary fire: No
+Power: Very high (up close)/Weak (over distance)
+Range: Very short
+Accuracy: N/A
+Ammo: 12-gauge shells (8-shell boxes)
+Reload Speed: Slow
+Cyclic rate: Slow
+
+
+Rifles:
+
+Colt M4A1 Assault Carbine w/ 2x scope
+-------------------------------------
+Tried and true, the M4 is the only true successor to the M16 of Vietnam. The particular model in Counter-Strike has had the holosight ripped off and replaced with a scope, for some extended range combat. Don't underestimate the M4, as it is one of the most powerful weapons available, yet cheap. You'll find yourself using this a lot. Cliffe's favorite.
+
+Cost: 3000 dollars
+Mag size: 30 rounds
+Secondary fire: Yes (zoom)
+Power: High
+Range: Long
+Accuracy: Medium
+Ammo: 5.56mm slugs (30-round mags)
+Reload Speed: Slow
+Cyclic rate: Quick
+
+AI Arctic Warfare/Magnum (AWM/P)
+--------------------------------
+A very strange weapon, this is a combination of a bolt-action and semi-automatic sniper rifle.
+This baby sports magnum rounds, so any shot that connects will be a fatal or near-fatal wound.
+Be careful, you can easily be outclassed by lurking operatives with G3's if they catch you first, so make sure you get the first shot off.
+
+Cost: 5000 dollars
+Mag size: 10 rounds
+Secondary fire: Yes (zoom cycle)
+Power: Very high
+Range: Very long
+Accuracy: Very high
+Ammo: 338Lapua (10-round clips)
+Reload speed: Slow
+Cyclic rate: Slow
+
+
+Heckler & Koch G3/SG-1 Sniper Rifle
+-----------------------------------
+Now this is the shit. High accuracy combined with high power, an NV scope, a semi-automatic fire rate, and a large magazine make this a force to be reckoned with. It's also the most expensive weapon on the market, and really need to ration the piggy bank. Usually 2 or 3 shots will do anyone in, but make sure each shot counts! The reload time is insanely long, and you can't carry many bullets in reserve. My favorite. =]
+
+Cost: 7500 dollars
+Mag size: 20 rounds
+Secondary fire: Yes (zoom cycle)
+Power: High
+Range: Very long
+Accuracy: Very high
+Ammo: 7.62mm slugs (30-round mags)
+Reload speed: Very slow
+Cyclic rate: Medium
+
+
+*SOON TO COME* Sig Steyr SSG552 Commmando Assault Rifle *SOON TO COME*
+------------------------------------------------------------
+A rare weapon, the SSG552 Commando is a M4 similarity. The main difference is performance. This was made mainly for long range combat for the Swiss, and it shows. Hence the name Commando, it's got a small size and is great for covert ops where you need to rescue hostages while taking no chances.
+
+Cost: TBD
+Mag size: 30 rounds
+Secondary fire: Yes(fold/unfold stock?)
+Power: High
+Range: Very long
+Accuracy: High
+Ammo: 5.56mm slugs (30-round mags)
+Reload speed: Slow
+Cyclic rate: High
+
+
+Submachineguns:
+
+Heckler & Koch MP5-N (Navy) Submachinegun
+-----------------------------------------
+Probably one of the most balanced weapons, it's weak power is compromised by a fast fire rate,
+quick reloading, and good accuracy. Aim for the head, because the weak rounds wont damage them much anywhere else. And nope, sorry, no laser sight for the spray and prayers (if you've played Action Quake 2, you will get what I mean.)
+
+Cost: 1250 dollars
+Mag size: 30 rounds
+Secondary fire: No
+Power: Weak
+Range: Medium
+Accuracy: Medium
+Ammo: 9mm slugs (30-round mags)
+Reload speed: Very quick
+Cyclic rate: Very high
+
+Steyr Tactical Machine Pistol (TMP)
+-----------------------------------
+To be the most used weapon, this submachinegun is equipped with subsonic rounds and a silencer for an added bonus. Why would it be used the most often? Well, the cheap price, cheap ammo, silencer, and being equally effective as the MP5, I wouldn't see why not. 
+
+Cost: 1100 dollars
+Mag size: 30 rounds
+Secondary fire: No
+Power: Weak
+Range: Short
+Accuracy: Medium
+Ammo: 9mm slugs (30-round mags)
+Reload speed: Medium
+Cyclic rate: High
+
+Machineguns:
+
+Fabrique Nationale M249 PARA
+----------------------------
+You never want to be on the recieving end of one of these. These hulks sport 100-round boxes of 5.56mm ammo, one of the quickest fire rates, and bullets that pierce walls. It's quite an accomplishment to own one of these. However, the accuracy is horrible cause of the recoil unless you sit, so try to keep a cool head while fighting. ViperX's favorite.
+
+
+Cost: 8000 dollars
+Mag size: 100 rounds
+Power: High
+Range: Medium
+Accuracy: Low
+Ammo: 5.56mm slugs (30-round mags)
+Reload speed: Very slow
+Cyclic rate: High
+
+
+Grenade Launchers:
+
+*SOON TO COME* Heckler & Koch HK69 40mm Grenade Launcher *SOON TO COME*
+-----------------------------------------------------------------------
+This is for the pyros out there. Just point to a target, pull the trigger, and a few seconds later it's gone (or scarred with blast marks if the target is a level brush =p). Definately not recommended in close quarters, as it could kill you easier than what your trying to kill, and because of the slow reload time and small loaded size.
+
+Cost: TBD
+Mag size: 1 grenade
+Power: Very high (direct or near direct hit)/High (radius damage)
+Range: Medium
+Accuracy: N/A
+Ammo: 40mm grenades (TBD)
+Reload speed: Very slow
+Cyclic rate: N/A
+
+
+ITEMS
+
+Flashbang Grenade
+-----------------
+A low-priced and needed item, always take flashbangs when you need to blind your opponents to get in and get some hostages out. It will turn anyones (friend or foe!) view white for a period of time, depending on distance from the blast. Gooseman's favorite.
+
+Cost: 150 dollars
+Quantity: 1 per purchase
+Max quantity: 3 grenades
+
+
+Kevlar Vest
+-----------
+Great for assault and when you need a little extra boost, the kevlar vest can be your best friend. It is, however, easily avoided with a headshot, stomach shot, or leg shot. It is also not very effective against M249, G3, or AWM/P rounds.
+
+Cost: 600 dollars
+Quantity: 1 per purchase
+Max quantity: 1 vest
+
+*------------------------------------------------------*
+| Counter-Strike Key Binding Information	       |
+*------------------------------------------------------*
+
+Counter-Strike has a few new commands that you will need to bind down and memorize to get the most out of each match.
+
+	* buyweapon: This will allow you to buy weapons to use. It will only work near your base, 
+		     and you must have money to purchase something. This is easily one of the
+		     most important commands, unless you like to use the USP/Glock. Refer above 
+		     for weapon costs.
+	* buyammo: Buys ammo for your weapons. Refer above for weapon info and what ammo they 
+		   need to operate, as well as cost.
+	* buyitem: Allows you to buy items. Refer above for item cost and usage.
+	* chooseteam: Will let you join teams. You are automatically assigned a team when you
+		      connect to the server, and is only needed for when teams get uneven.
+	* hostage: Only for counter-terrorists, this will free hostages once you bring them back
+		   to your spawn points. You may have to press this multiple times to get this to
+		   work.
+	* showplayerinfo: Shows money and what team you're on. You'll use this a lot.
+	* throwweapon: Tosses your current secondary weapon (a weapon other than a handgun).
+		       You'll use this a lot as well, for you might need to a drop your weapon to
+		       get another.
+
+The cstrike.cfg included auto-binds these, but you may need to rebind them incase they go over your old controls.
