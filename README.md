@@ -10,7 +10,6 @@ I am unsure of what was officially changed, so I only took the modified `mp.dll`
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6 
-- Linux: Half-Life Dedicated Server v3.0.1.6
 
 _____
 
@@ -36,4 +35,5 @@ Maps changes:
 - Siege and Wpndepot were updated.
 
 Weapons changes:
-- Semi-automatic mode has been added for the Glock 18.```
+- Semi-automatic mode has been added for the Glock 18.
+```
