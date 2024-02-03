@@ -4,15 +4,18 @@
 
 This repository contains most of the official releases of Counter-Strike Pre-1.6, for preservation purposes. Installer files have already been extracted without any modification.
 
-To get the version you wish to install, you will need to select a branch. It is visible on the left side of the GitHub repository.
+If possible, Linux binaries are also provided, avoiding the need to redownload files twice, or to research them. In addition to that, all versions of Counter-Strike contains a `README.md` file providing all the informations you need, such as the recommended release of Half-Life to run these mods.
+
+Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint.
+
+## Download version
+To get the version of Counter-Strike you wish to install, you will need to select a branch. It is visible on the left side of the GitHub repository.
 
 Then, click on `<> Code`, and `Download ZIP`
 ![Where to download the version of Counter-Strike.](https://github.com/ch0ww/counterstrike-betas/blob/main/images/download_version.png?raw=true)
 
-# Additional informations:
-
+# Additional informations
 ### Windows-Only binaries 
-
 **These versions of Counter-Strike do __NOT__ seem to have Linux support!**
 - Counter-Strike Beta 1.0
 - Counter-Strike Beta 1.1
