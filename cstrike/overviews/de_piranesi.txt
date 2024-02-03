@@ -1,0 +1,14 @@
+// overview description file for de_piranesi.bsp
+
+global 
+{
+	ZOOM	1.37
+	ORIGIN	48 	864	400
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_piranesi.bmp"
+	HEIGHT	-64
+}

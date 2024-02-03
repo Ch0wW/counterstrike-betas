@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $600
+Country of Origin	: Switzerland/Germany
+Calibre		: .357 SIG
+Clip Capacity(CS)	: 13 rounds
+Rate of Fire	: N/A
+Weight(EMPTY)	: 1.03 kg.
+
+Projectile Weight	: 8.1 grams
+Muzzle Velocity	: 1400 feet/second
+Muzzle Energy	: 600 joules
+
+
+
+
+

@@ -1,0 +1,14 @@
+// overview description file for de_chateau.bsp
+
+global 
+{
+	ZOOM	1.61
+	ORIGIN	1258.56	652.56	-176
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_chateau.bmp"
+	HEIGHT	-176
+}

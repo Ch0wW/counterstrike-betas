@@ -1,0 +1,24 @@
+Piranesi - Bomb-Defuse
+
+Fingers - iikkak@valvesoftware.com
+
+Thanks to Ido Magal for texture sources
+
+Background: a sprawling neo-romanesque
+palace known as Villa Piranesi is to be
+opened to the public as a museum. 
+Restored furniture and works of art are 
+being shipped into the compound.
+
+Terrorists: Prevent the museum from
+opening by destroying one of its two 
+main attractions; the antique sundial
+in the front courtyard or the grand
+celestial orrery in the back garden.
+
+Counter-Terrorists:  Protect the
+historical site against the terrorists.
+
+
+
+(Press Fire to Continue)

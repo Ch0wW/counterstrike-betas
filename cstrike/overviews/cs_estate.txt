@@ -1,0 +1,14 @@
+// overview description file for cs_estate.bsp
+
+global 
+{
+	ZOOM	2.08
+	ORIGIN	-144 	-925	-800
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_estate.bmp"
+	HEIGHT	-800
+}

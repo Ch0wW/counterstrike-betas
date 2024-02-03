@@ -1,0 +1,28 @@
+// overview description file for cs_office.bsp
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	280 	-351	-435
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_office.bmp"
+	HEIGHT	-435
+}
+
+decals
+{
+	CUSTOM	-1343 	-1690 	-242 	0
+	CUSTOM	1 	-1152 	-148 	0
+	CUSTOM	1087 	864 	-80 	0
+	CUSTOM	1251 	-416 	-87	0
+	CUSTOM	1312 	-64 	-87 	0
+	CUSTOM	352 	-1077 	-152 	0
+	CUSTOM	-1696 	-405 	-165 	0
+	CUSTOM	403 	192 	-79 	0	
+	CUSTOM	-754 	-1232 	-162 	0
+	CUSTOM	1312 	-511 	-82 	0
+}

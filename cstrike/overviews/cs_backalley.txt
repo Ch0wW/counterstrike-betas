@@ -1,0 +1,14 @@
+// overview description file for cs_backalley.bsp
+
+global 
+{
+	ZOOM	2.17
+	ORIGIN	213 	1229	-656
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_backalley.bmp"
+	HEIGHT	-656
+}

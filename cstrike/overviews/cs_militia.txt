@@ -1,0 +1,14 @@
+// overview description file for cs_militia.bsp
+
+global 
+{
+	ZOOM	1.72
+	ORIGIN	615 	-476	-380
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_militia.bmp"
+	HEIGHT	-380
+}

@@ -1,9 +1,0 @@
-Zaphod's Estate - Hostage Rescue
-by Zaphod Beeblebrox 
-zaphod@mapcore.com
-
-Counter-Terrorists: Rescue the three
-hostages being held captive in the mansion.
-
-Terrorists: Prevent the Counter-Terrorists
-from rescuing the hostages.

@@ -1,0 +1,16 @@
+Nuke - Bomb/Defuse
+by Jo Bieg (MEEEEDIC@gmx.net)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear missile. The 
+mission can be targeted from above and
+below. Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the nuclear missile.
+
+Other Notes: There are 2 bomb targets
+in the mission. 
+
+(Press FIRE to continue)

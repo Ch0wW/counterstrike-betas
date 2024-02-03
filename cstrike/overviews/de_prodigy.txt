@@ -1,0 +1,14 @@
+// overview description file for de_prodigy.bsp
+
+global 
+{
+	ZOOM	2.24
+	ORIGIN	1623 	-272	-480
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_prodigy.bmp"
+	HEIGHT	-480
+}
