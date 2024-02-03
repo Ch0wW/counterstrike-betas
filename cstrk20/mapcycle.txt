@@ -1,8 +1,0 @@
-cs_facility
-cs_docks
-cs_siege
-cs_zoption
-cs_desert
-cs_bunker
-cs_assault
-cs_alley1

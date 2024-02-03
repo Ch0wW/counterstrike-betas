@@ -1,0 +1,12 @@
+cs_assault
+cs_bunker
+cs_desert
+cs_docks
+cs_facility
+cs_hideout
+cs_mansion
+cs_militia
+cs_ship
+cs_siege
+cs_tire
+cs_zoption

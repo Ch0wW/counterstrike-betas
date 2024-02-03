@@ -1,4 +1,4 @@
-# Counter-Strike Beta 2.0
+# Counter-Strike Beta 3.0
 
 ## Supported versions
 - [x] **Windows**
@@ -13,39 +13,20 @@ _____
 # Changelog
 
 ```
-Gameplay changes:
-- Round timer was added.
-- Team score was added.
-- Night vision goggles were added.
-- The ability to change key bindings was added.
-- "ignoremessages" console command was added.
-- "sv_limitteams" console command was added.
-- "sv_lowlag" console command was added.
-
-Player models changes:
-- All models were optimized for lower "r_speeds" parameters.
-- Terrorist model was improved.
-
-Interface changes:
-- New scope for G3SG1.
-- New scope for AWP.
-
-Sounds changes:
-- Weapon sounds were updated.
-
-Maps changes:
-- Bunker, Docks, Facility, Alley1 and Zoption maps were added.
-- Siege and Assault maps were updated.
-- Mansion, Prison and Wpndepot maps were deleted.
-
-Weapons changes:
-- AK-47, Desert Eagle and SG-552 were added.
-- Silencers for USP and M4A1 were added.
-
-Teams changes:
-- The Irish Republican Army (IRA) was changed to Phoenix (Phoenix Faction)
+BETA 3.0
+[9.14.99]
+- Added a knife weapon for those last resort situations
+- Added a kevlar+helmet combination
+- *GREATLY* improved hostage path AI
+- Added concussion grenades which shoot out shrapnel as well as a bright flash
+- Added a new weapon, the Fabrique Nationale P90 submachine gun
+- Added a radio system
+- Modified the scoreboard
+- modified the shotgun
+- siege, bunker, desert updated
+- added cs_tire.bsp
+- added cs_militia.bsp
+- added cs_hideout.bsp
+- added cs_ship.bsp
+- re-added cs_mansion.bsp to map rotation
 ```
-
-
-#### Addentum
-If you get the official installer, please set your computer's date to early July from 1999 to bypass the "30-day expiration date" message.
