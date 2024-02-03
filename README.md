@@ -2,7 +2,7 @@
 
 ## Supported versions
 - [x] **Windows**
-- [] Linux (missing binaries)
+- [ ] Linux (missing binaries)
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6 
