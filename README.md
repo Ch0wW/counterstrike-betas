@@ -45,3 +45,7 @@ Weapons changes:
 Teams changes:
 - The Irish Republican Army (IRA) was changed to Phoenix (Phoenix Faction)
 ```
+
+
+#### Addentum
+If you get the official installer, please set your computer's date to early July from 1999 to bypass the "30-day expiration date" message.
