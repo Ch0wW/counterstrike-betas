@@ -1,69 +1,72 @@
-# Counter-Strike Beta 4.0
+# Counter-Strike Beta 5.0
 
 ## Supported versions
 - [x] **Windows**
-- [x] **Linux**
+- [] Linux (missing binaries)
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6 
-- Linux: Half-Life Dedicated Server v3.0.1.6
 
 _____
 
 # Changelog
 
 ```
-BETA 4.0
-[11.5.99]
-- Added Sig P228 pistol, and Steyr Scout sniper rifle
-- Added new gameplay scenario involving C4 bombs
-- tweaked firing system for all guns
-- added High-Explosive (HE) grenades
-- modified hostage rescue scenario (rescuing 50% of the hostages will result in a CT win)
-- modified kick vote system (only 65% of a team is needed to kick vote someone off)
-- loose guns are removed at the start of a round. (no more gun running)
-- loser bonuses are increased to allow the losing team to stand a fighting chance
-- altered money bonuses for rescuing hostages :
-   $500 for touching a hostage
-   $1000 for successfully rescuing a hostage
-   $500 team bonus
-- added cs_station, de_nuke, de_dust, de_prodigy
-- modified cs_ship, cs_siege, cs_docks, cs_tire, cs_facility
-- automatic flashbang .wav added back
-- new, closer rescue points added to cs_ship, cs_siege, cs_tire
+BETA 5.0
+[12.23.99]
 
+Beta 5.0 ships with an extensive help manual located at \half-life\cstrike\manual\index.htm.  Please refer to it for more extensive help.
 
+New Content:
+- Added Benelli XM 1014 fully automatic shotgun
+- New Hostage model and two new skins.
+- SAS model added as a selectable CT
+- Added maps cs_backalley and de_train
+- Updated maps cs_station, de_nuke, de_dust, and de_prodigy
+- New icons for HUD (money, weapons, armor, timer, C4, defuse Kit, scoreboard)
+- Added buy zones, reload zones, hostage, and bomb target zones to HUD.
 
-****** What's new in BETA 4.0 ********
+Gameplay Changes:
+- C4 is now an equipment item in slot 5 (to plant, select then hold down fire)
+- C4 can only be planted in bomb delivery zone
+- To defuse a bomb Counter Terrorists must target C4, press and hold the USE key
+- CTs can defuse C4 without a defuse kit in 10 seconds
+- CTs can defuse C4 with a defuse kit in 5 seconds 
+- A progress meter is added showing CTs their progress defusing a bomb
+- A progress meter is added showing Ts their progress planting a bomb (this takes 3 seconds)
+- Defuse kit now an item which can be purchased - Nobody starts with a defuse kit
+- Defusing bomb wins round for Counter Terrorists
+- C4 can be dropped for other teammates
+- Hostages are automatically rescued at hostage rescue zones
+- Counter Terrorist and Terrorist teams are now labeled
+- Individual frags can be toggled on or off
+- Ghosts can be made visible to other ghosts (client defined)
+- Pre-Round grace timer standard setting 6 seconds (server defined)
+- Three observer modes: classic ghost, locked chasecam and freelook chasecam ( press jump to toggle)
+- Auto-find teammate in observer mode (primary fire)
+- New radio messages and organization of radio keys (standard, group and report messages)
+- Can hear other players reloading
+- Mission briefing added to maps (can also be invoked during round)
 
-** New server variables :
- mp_roundtime X    {X is the number of minutes the round lasts. Valid values range between 3 and 9. Default is 5}
- mp_c4timer X      {X is the number of seconds the C4 bomb is set to blow. Valid values range between 10 and 90. Defaults is 30}
- mp_limitteams 0/1 {1 will restrict the number of players per team. Default is 1}
- mp_lowlag 0/1     {0 will causes more bullet sparks to be spawned, thereby creating more lag. Default is 1}
- mp_friendly_grenade_damage 0/1   {1 will result in HE grenades hurting teammates. Default is 1}
+Context Sensitive Help System:
+Terse Auto-help
+- Round start notification (i.e. hint to purchase items)
+- Observer mode notification
 
-** New client commands :
- +showfrags        {displays every player's frag counts on the scoreboard}
- -showfrags        {only displays the player's frag count on the scoreboard}
- radio1            {brings up a list of radio commands}
- radio2            {brings up another list of radio commands}
- plant_c4          {plants the c4 bomb, if the player has one}
- 
- 
-***** "Defusion" C4 bombing description *****
-
-If a map has a target to be bombed, the terrorist team leader will be equipped with a C4 bomb. His goal is to plant the bomb at
-the defined bomb target (marked on the map by a red target decal). Once the bomb has been planted, the bomb will blow up in X
-seconds (where X is the server defined C4 timer variable, default at 30 seconds). The bomb will make an increasingly louder 
-beeping sound as it nears the detonation time. After the bomb has been planted, any Counter-terrorist player equipped with a bomb
-defuser may defuse the bomb by crouching on top of the bomb for 5 seconds. If the bomb goes off and the target is hit, the round will
-end and the Terrorists will win. If the bomb has been planted and all the terrorists are eliminated, the round will not end until
-the bomb has either been defused (CT wins) or detonated (Terrorist wins). A bomb's blast radius is fairly substantial and it's wise
-to give yourself 10 seconds to run away from the bomb once it's been planted.
-
-NOTE : Only half the CT team is equipped with bomb defusers.. It is recommended that this half of the team stay near the bomb targets
-to listen for any beeping sounds.
-
-Deufusion maps are denoted by de_mapname
+Verbose Auto-help
+- What to do with hostages (CTs rescue, Ts protect)
+- What not to do with hostages (injuring/killing)
+- How to lead hostages
+- Looking at a friend for the first time
+- Looking at an enemy for the first time
+- What not to do with friends (injuring/killing)
+- What to do with enemies (win by killing all enemies)
+- Picking up C4 for the first time
+- Out of ammunition for the first time
+- In a bomb target zone for the first time
+- In a hostage rescue zone for the first time
+Auto-ID
+- Friend (name and health displayed)
+- Enemy (name displayed; health displayed only if observing)
+- Hostage (health displayed) 
 ```

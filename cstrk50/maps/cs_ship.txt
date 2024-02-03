@@ -1,0 +1,11 @@
+Ship - Hostage Rescue
+
+Counter-Terrorists: Find and rescue 
+the hostages. Take out terrorists 
+without jeopardizing the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 5 hostages in 
+the mission. 

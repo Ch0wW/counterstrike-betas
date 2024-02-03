@@ -1,0 +1,230 @@
+Team_Select
+{
+\ySelect a team\w
+
+1. Terrorist Faction
+2. Counter-Terrorist force
+
+5. Auto-select
+}
+
+IG_Team_Select
+{
+\ySelect a team\w
+
+1. Terrorist Faction
+2. Counter-Terrorist force
+
+5. Auto-select
+
+0. Exit
+}
+
+Terrorist_Select
+{
+\ySelect your appearance\w
+
+1. Urban Camo
+2. Middle Eastern
+
+5. Auto-select
+}
+
+CT_Select
+{
+\ySelect your appearance\w
+
+1. Navy Seal
+2. German GSG-9
+3. UK SAS
+
+5. Auto-select
+}
+
+		Menu_Buy,
+		Menu_BuyPistol,
+		Menu_BuyRifle,
+		Menu_BuyMachineGun,
+		Menu_BuyShotgun,
+		Menu_BuySubMachineGun,
+		Menu_BuyItem
+
+Buy
+{
+\yBuy Item\w
+
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
+
+6. Primary weapon ammo
+7. Secondary weapon ammo
+
+8. Equipment
+
+0. Exit
+}
+
+BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Concussion Grenade\y\R200	
+\w4. HE Grenade\y\R300
+
+\w0. Exit
+}
+
+DCT_BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Concussion Grenade\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Defuse Kit\y\R200
+
+\w0. Exit
+}
+
+DT_BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Concussion Grenade\y\R200	
+\w4. HE Grenade\y\R300
+\d5. Defuse Kit\y\R200
+
+\w0. Exit
+}
+
+BuyPistol
+{
+\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. H&K USP .45 Tactical\y\R500
+\w2. Glock18 Select Fire\y\R400
+\w3. Desert Eagle .50AE\y\R650
+\w4. SIG P228\y\R600
+
+\w0. Exit
+}
+
+BuyShotgun
+{
+\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\w1. Benelli M3 Super90\y\R1700
+\w2. Benelli XM1014\y\R3000
+
+\w0. Exit
+}
+
+T_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\w1. AK-47\y\R2500
+\d2. Colt M4A1 Carbine\R3100
+\w3. Sig SG-552 Commando\y\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\w4. Steyr Scout\y\R2750
+\w5. AI Arctic Warfare/Magnum\y\R4750
+\w6. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+CT_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\d1. AK-47\R2500
+\w2. Colt M4A1 Carbine\y\R3100
+\w3. Sig SG-552 Commando\y\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\w4. Steyr Scout\y\R2750
+\w5. AI Arctic Warfare/Magnum\y\R4750
+\w6. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+BuySubMachineGun
+{
+\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. H&K MP5-Navy\y\R1500
+\w2. Steyr Tactical Machine Pistol\y\R1250
+\w3. FN P90\y\R2450
+
+\w0. Exit
+}
+
+BuyMachineGun
+{
+\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. FN M249 Para\y\R5750
+
+\w0. Exit
+}
+
+RadioA
+{
+\yRadio Commands\w
+
+1. "Cover Me"
+2. "You Take the Point"
+3. "Hold This Position"
+4. "Circle Around Back"
+5. "Follow Me"
+6. "Meet at the Rendezvous Point"
+
+0. Exit
+}
+
+RadioB
+{
+\yGroup Radio Commands\w
+
+1. "Go"
+2. "Fall Back"
+3. "Stick Together Team"
+4. "Get in Position"
+5. "Storm the Front"
+6. "Report In"
+
+0. Exit
+}
+
+RadioC
+{
+\yRadio Responses/Reports\w
+
+1. "Affirmative/Roger"
+2. "Enemy Spotted"
+3. "Need Backup"
+4. "Sector Clear"
+5. "I'm in Position"
+6. "Reporting In"	
+7. "She's gonna Blow!"
+8. "Negative"
+
+0. Exit
+}

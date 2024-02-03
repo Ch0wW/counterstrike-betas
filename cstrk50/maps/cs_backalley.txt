@@ -1,0 +1,18 @@
+Alleyway - Hostage Rescue/Escort
+
+Counter-Terrorists: 
+
+-Infiltrate Terrorist stronghold and escort 
+ the hostages to the rescue zone.
+ 
+-Take out the Terrorists without jeopardizing 
+ the hostages.
+
+-There are 4 hostages in the mission. 
+
+Terrorists:
+
+-Eliminate the Counter-Terrorist
+ force before they rescue any hostages.
+
+(Press FIRE to continue)
