@@ -1,8 +1,28 @@
 ______________________________________
 Counter-Strike Mod for Half-Life
-Beta 6.0 Release Documentation -- Readme.txt
+Beta 6.1 Release Documentation -- Readme.txt
 http://www.counter-strike.net
 ______________________________________
+
+
+
+BETA 6.1
+[server side only]
+--------
+[3.24.00]
+- off center shooting fixed
+- greatly improved nightvision
+- can buy nightvision using the 'buyequip' command
+- ammo bugs fixed
+- 120 round limit for the mp5 and tmp
+- prisoners are notified when someone escapes
+- draw games eliminated, now scenario specific
+- new TK 1 round "time-out" penalty 
+
+commands:
+---------
+mp_autoteambalance 0/1
+toggles the auto balancing of teams
 
 
 BETA 6.0
