@@ -73,7 +73,7 @@ BuyRifle
 	2. AI Arctic Warfare/Magnum {4750}
 	3. H&K G3/SG-1 Sniper Rifle {5000}
 	4. Sig SG-552 Commando      {3500}
-	5. AK-47                    {2250}
+	5. AK-47                    {2500}
 }
 
 BuySubMachineGun
