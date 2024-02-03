@@ -1,0 +1,21 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $500
+Country of Origin	: Germany
+Manufacturer	: Heckler & Koch
+Calibre		: .45 ACP
+Clip Capacity	: 12 rounds
+Rate of Fire	: N/A
+Weight(EMPTY)	: 1 kg.
+
+Projectile Weight	: 15.2 grams
+Muzzle Velocity	: 886 feet/second
+Muzzle Energy	: 553 joules
+
+
+
+
+
+
+
+

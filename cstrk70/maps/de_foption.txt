@@ -1,0 +1,20 @@
+Final Option - Bomb/Defuse
+by Poor Yurik (yak@lvcm.com)
+All custom textures by Poor Yurik
+Special Thanks to: Recycled & [UGP]SkittZ
+
+Counter-Terrorists: Prevent Terrorists
+from bombing critical areas of Silo 15
+as they attempt to disable or destroy
+the complex.
+
+Terrorists: Destroy one of the 3 vital
+components of the silo.
+
+There are 3 bomb points
+in this mission:
+1)The Titan Nuclear ICBM
+2)The Communication Center
+3)The Power/Fuel/Ventilation Core
+
+(Press FIRE to continue)
