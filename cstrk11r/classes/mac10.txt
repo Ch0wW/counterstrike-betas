@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $1400
+Country of Origin	: United States of America
+Calibre		: .45 ACP
+Clip Capacity	: 30 rounds
+Rate of Fire(CS)	: 857 rpm
+Weight(EMPTY)	: 3.82 kg.
+
+Projectile Weight	: 15.2 grams
+Muzzle Velocity	: 919 feet/second
+Muzzle Energy	: 584 joules
+
+
+
+
+

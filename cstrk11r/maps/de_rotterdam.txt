@@ -1,0 +1,11 @@
+Rotterdam Docks - Bomb/Defuse
+by Rob Smolders (robsmolders2000@hotmail.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the warehouse or the office
+at the trainyard.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the warehouse or the office.
+
+(Press FIRE to continue)

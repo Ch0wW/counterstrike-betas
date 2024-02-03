@@ -1,0 +1,16 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $2500
+Country of Origin	: Russia
+Calibre		: 7.62mm NATO
+Clip Capacity	: 30 rounds
+Rate of Fire	: 600 rpm
+Weight(LOADED)	: 4.79 kg.
+
+Projectile Weight	: 7.9 grams
+Muzzle Velocity	: 2329 feet/second
+Muzzle Energy	: 1992 joules
+
+
+
+

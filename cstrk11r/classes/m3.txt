@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $1700
+Country of Origin	: Italy
+Calibre		: 12 gauge
+Clip Capacity(CS)	: 8 rounds
+Rate of Fire	: N/A
+Weight(EMPTY)	: 3.5 kg
+
+Projectile Weight	: 3.8 grams/pellet
+Muzzle Velocity	: 1250 feet/second
+Muzzle Energy	: 2429 joules
+
+
+
+
+
