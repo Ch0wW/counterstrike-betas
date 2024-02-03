@@ -5,6 +5,21 @@ Readme.txt
 ______________________________________
 
 
+BETA 3.1
+[9.16.99]
+- Bullet penetration bug fixed
+- Radio .wav's now have lower volume
+- Removed automatic .wav's (death, flashbang)
+- fixed MRAD_ENEMYSPOTTED error
+- Disorientation system changed
+- Added "ignoreradio" command to only ignore .wav's
+
+
+
+
+
+
+
 
 BETA 3.0
 [9.14.99]

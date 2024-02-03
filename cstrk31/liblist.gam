@@ -10,3 +10,4 @@ game "CounterStrike" // Game title
        nomodels "1" // game selects player model (1=yes 0=no)
        mpentity "hostage_entity" // name of multiplayer spawn entity
        gamedll "dlls\mp.dll" // file and location of dll
+       gamedll_linux "dlls/mp_i386.so" // file and location of dll

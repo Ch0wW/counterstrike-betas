@@ -115,13 +115,13 @@ Radio
 	
 	1. "Affirmative/Roger"
 	2. "Need Backup"
-	3. "Cover me"
+	3. "Cover me/I'll take point"
 	4. "Enemy spotted"
-	5. "I'm hit"
-	6. "I'm in position"
-	7. "I'll take the point"
-	8. "Report in"	
-	9. "Reporting in"
+	5. "I'm in position"
+	6. "Report in"	
+	7. "Reporting in"
+	8. "Teammate down!!"
+	9. "Enemy Down!!"
 }
 
 CommanderRadio
