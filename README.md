@@ -1,5 +1,9 @@
 # Counter-Strike Beta 1.1
 
+This version has been taken from the Internet, since there's no official installer around, only a zipped archive.
+
+I am unsure of what was officially changed, so I only took the modified `mp.dll` and changed the folder name.
+
 ## Supported versions
 - [x] **Windows**
 - [ ] Linux (missing server binaries)
