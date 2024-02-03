@@ -1,4 +1,4 @@
-# Counter-Strike Version 1.1 
+# Counter-Strike Version 1.1c
 
 ## Supported versions
 - [x] **Windows**
@@ -12,6 +12,14 @@ _____
 # Changelog
 
 ```
+v1.1c
+-----
+[4.6.01]
+
+Bug Fixes:
+----------
+- Incorrect Hitboxes fixed when holding specific weapons.
+
 v1.1
 -----
 [3.13.01]

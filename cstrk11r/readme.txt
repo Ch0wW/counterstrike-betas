@@ -5,6 +5,14 @@ http://www.counter-strike.net
 ______________________________________
 
 
+v1.1c
+-----
+[4.6.01]
+
+Bug Fixes:
+----------
+- Incorrect Hitboxes fixed when holding specific weapons.
+
 v1.1
 -----
 [3.13.01]
