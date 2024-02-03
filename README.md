@@ -20,6 +20,7 @@ Then, click on `<> Code`, and `Download ZIP`
 - Counter-Strike Beta 1.0
 - Counter-Strike Beta 1.1
 - Counter-Strike Beta 2.0
+- Counter-Strike Beta 2.1
 - Counter-Strike Beta 3.0
 - Counter-Strike Beta 5.0
 - Counter-Strike Beta 6.0
@@ -30,7 +31,7 @@ If these versions **DO** have Linux support (I'm pretty sure some might have but
 
 The following versions of Counter-Strike are missing from this repository. Maybe they are missing, or are no longer available. If you do have them, please let me know through an issue file.
 - [ ] Counter-Strike Beta 1.2
-- [ ] Counter-Strike Beta 2.1
+- [x] ~~Counter-Strike Beta 2.1~~
 - [ ] Counter-Strike Beta 4.1
 - [ ] Counter-Strike Release 1.2
 
