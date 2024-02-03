@@ -1,4 +1,4 @@
-# Counter-Strike Beta 1.0
+# Counter-Strike Beta 1.1
 
 ## Supported versions
 - [x] **Windows**
@@ -11,6 +11,25 @@
 _____
 
 # Changelog
+
 ```
-This is the initial release!
-```
+Gameplay changes:
+- Server stability has been increased leading to a reduction in the number of crashes.
+- Bugs with ammo and gear replenishment were fixed.
+- The economy was slightly re-balanced.
+- The "mp_friendlyfire' command has been added.
+- Changelevel was fixed.
+
+Interface changes:
+- New scope for G3SG1.
+
+Sounds changes:
+- Radio chatter has been re-recorded with better quality.
+- New USP firing sound.
+
+Maps changes:
+- New maps: Assault and Desert.
+- Siege and Wpndepot were updated.
+
+Weapons changes:
+- Semi-automatic mode has been added for the Glock 18.```
