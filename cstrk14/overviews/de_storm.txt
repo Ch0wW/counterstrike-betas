@@ -1,0 +1,14 @@
+// overview description file for de_storm.bsp
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	-14 	-50	-520
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_storm.bmp"
+	HEIGHT	-520
+}

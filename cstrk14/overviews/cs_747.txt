@@ -1,0 +1,14 @@
+// overview description file for cs_747.bsp
+
+global 
+{
+	ZOOM	1.63
+	ORIGIN	32 	-578	-256
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_747.bmp"
+	HEIGHT	-256
+}

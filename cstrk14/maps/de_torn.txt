@@ -1,0 +1,16 @@
+Torn - Bomb/Defuse
+by Crinity & Madcross
+www.planethalflife.com/crinity/
+
+Terrorists: Detonate a toxic nerve agent 
+into the town's water supply that will 
+spread to nearby cities.
+
+Counter-Terrorists: Contain the situation. 
+Prevent hostiles from completing their 
+objectives.
+
+Other Notes: There are 2 detonation
+targets in the town.
+
+(Press FIRE to continue)

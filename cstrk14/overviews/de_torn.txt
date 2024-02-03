@@ -1,0 +1,14 @@
+// overview description file for de_torn.bsp
+
+global 
+{
+	ZOOM	1.35
+	ORIGIN	82 	663	-470
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_torn.bmp"
+	HEIGHT	-470
+}

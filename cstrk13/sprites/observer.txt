@@ -1,3 +1,0 @@
-2
-crosshair		320 crosshairs	24	0	24	24
-crosshair		640 crosshairs	24	0	24	24

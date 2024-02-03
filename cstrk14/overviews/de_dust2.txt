@@ -1,0 +1,14 @@
+// overview description file for de_dust2.bsp
+
+global 
+{
+	ZOOM	1.50
+	ORIGIN	-223 	1097	-192
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dust2.bmp"
+	HEIGHT	-192
+}

@@ -1,0 +1,14 @@
+// overview description file for cs_italy.bsp
+
+global 
+{
+	ZOOM	1.76
+	ORIGIN	-212 	243	-240
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_italy.bmp"
+	HEIGHT	-240
+}

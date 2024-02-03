@@ -1,0 +1,14 @@
+// overview description file for cs_siege.bsp
+
+global 
+{
+	ZOOM	1.14
+	ORIGIN	564 	1252	-640
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_siege.bmp"
+	HEIGHT	-640
+}

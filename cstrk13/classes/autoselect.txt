@@ -1,1 +1,0 @@
-Auto-Select randomly selects a character model.
