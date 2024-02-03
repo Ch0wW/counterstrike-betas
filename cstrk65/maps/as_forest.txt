@@ -1,0 +1,19 @@
+Forest - Assassination
+Map by Poor Yurik (yak@lvcm.com)
+Textures by Macman/Poor Yurik
+SkyBox by MJC (fluxion@ii.net)
+Special Thanks to [UGP]Skittz/AD testers
+
+Background: After a AAA gun cripples a
+transport helicopter during an escort
+mission, a group of CT's and a valuable
+government official find themselves
+deep within enemy territory.
+
+Counter-Terrorists:
+Escort the VIP to safety at all costs.
+
+Terrorists:
+Eliminate the VIP
+
+(Press FIRE to continue)
