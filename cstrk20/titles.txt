@@ -1,0 +1,105 @@
+Team_Select
+{
+	Select a team:
+	
+	1. Terrorist Faction
+	2. Counter-Terrorist force
+	3. (AUTO-SELECT)
+}
+
+Terrorist_Select
+{
+	Select a terrorist group:
+	
+	1. The Phoenix Faction
+}
+
+CT_Select
+{
+	Select a counter-terrorist group:
+	
+	1. Seal Team 6 (DEVGRU)
+}
+
+		Menu_BuyWeapon,
+		Menu_BuyPistol,
+		Menu_BuyRifle,
+		Menu_BuyMachineGun,
+		Menu_BuyShotgun,
+		Menu_BuySubMachineGun,
+		Menu_BuyItem
+		
+BuyWeapon
+{
+	What type of weapon do you want to buy:
+	
+	1. Pistol
+	2. Shotgun
+	3. Sub-Machine Gun
+	4. Rifle
+	5. Machine Gun
+}
+
+BuyItem
+{
+	What item would you like to buy:
+	
+	1. Kevlar vest  {650}
+	2. Flashbang    {150}
+	3. NV Goggles   {1250}
+}
+
+BuyPistol
+{
+	What kind of pistol would you like to buy:
+	
+	1. H&K USP .45 Tactical {500}
+	2. Glock18 Select Fire  {400}
+	3. Desert Eagle .50AE	{800}
+}
+
+BuyShotgun
+{
+	What kind of shotgun would you like to buy:
+	
+	1. Benelli M3 Super90 {2000}
+}
+
+BuyRifle
+{
+	What kind of rifle would you like to buy:
+	
+	1. Colt M4A1 Carbine        {3250}
+	2. AI Arctic Warfare/Magnum {4750}
+	3. H&K G3/SG-1 Sniper Rifle {5000}
+	4. Sig SG-552 Commando      {3500}
+	5. AK-47                    {2250}
+}
+
+BuySubMachineGun
+{
+	What kind of sub-maching gun would you like to buy:
+	
+	1. H&K MP5-Navy                   {1500}
+	2. Steyr Tactical Machine Pistol  {1250}
+}
+
+BuyMachineGun
+{
+	What kind of machine gun would you like to buy:
+	
+	1. FN M249 Para  {5500}
+}
+
+BuyAmmo
+{
+	What type of ammo would you like to buy:
+	
+	1. 9mm       : {Glock18,MP5 Navy, Steyr TMP}
+	2. .45ACP    : {USP Tactical}
+	3. 5.56mm    : {M4A1, M249, SG-552}
+	4. 7.62mm    : {G3/SG-1, AK-47}
+	5. 338Lapua  : {AWP}
+	6. buckshot  : {M3 Super90}
+	7. .50AE     : {Desert Eagle}
+}

@@ -1,4 +1,0 @@
-cs_mansion
-cs_wpndepot
-cs_siege
-cs_prison

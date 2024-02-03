@@ -1,0 +1,25 @@
+// Server Lists
+//
+Titan
+{
+	half-life.east.won.net:6003
+	half-life.west.won.net:6003
+}
+
+Auth
+{
+	half-life.east.won.net:7002 
+	half-life.west.won.net:7002
+}
+
+Master
+{
+	half-life.east.won.net:27010 
+	half-life.west.won.net:27010
+}
+
+ModServer
+{
+	half-life.east.won.net:27011
+	half-life.west.won.net:27011
+}
