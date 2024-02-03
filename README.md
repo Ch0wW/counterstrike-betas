@@ -1,4 +1,4 @@
-# Counter-Strike Beta 7.0
+# Counter-Strike Beta 7.1
 
 ## Supported versions
 - [x] **Windows**
@@ -12,31 +12,19 @@ _____
 # Changelog
 
 ```
-BETA 7.0
+BETA 7.1
 --------
-[8.26.00]
+[9.13.00]
 
-- added dual Berettas
-- added redone Knife Model (added a secondary attack mode for knife)
-- fully implemented VGUI
-- added new player model (Seal Team 6)
-- added several new player animations
-- fixed locked chasecam
-- gave VIP a USP
-- added cs_office, as_highrise, cs_arabstreets, de_foption & de_vegas
-- fixed many bugs & exploits
-- added driveable vehicle support
-- added driveable vehicle test map de_jeepathon2000
-
-New Commands:
-------------
-
-setinfo vgui_menus X  
-{X = 0 or 1,  0 disables VGUI menus, 1 enables VGUI menus}
-(also available through the "Play CS" > "Customize" menu)
-
-*Note: If the buy weapon system malfunctions, disable the vgui
-through the "Play CS" > "Customize" menu
-
-*Note: de_jeepathon2000 is meant as a test/prototype map only.
+- fixed de_vegas crashing
+- tweaked burst fire accuracy system
+- slightly improved vehicle code
+- included missing skies (for cs_arabstreets, de_train)
+- fixed mp_timelimit bug
+- added APC to cs_siege
+- new server variable, "mp_maxrounds X"   {X = maximum number of rounds to be played on a map, if X = 0, then maps will rotate based on mp_timelimit}
+- fixed crosshairs {They now expand regardless of lag}
+- fixed player heights {Player's POV is now representative of the third person player model}
+- fixed shotgun not showing up in VGUI menus in as_ maps for CTs
+- included new death icon for headshots
 ```

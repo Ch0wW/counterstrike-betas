@@ -1,0 +1,743 @@
+Team_Select
+{
+\ySelect a team\w
+
+1. Terrorist Faction
+2. Counter-Terrorist force
+
+5. Auto-select
+}
+
+IG_Team_Select
+{
+\ySelect a team\w
+
+1. Terrorist Faction
+2. Counter-Terrorist force
+
+5. Auto-select
+
+0. Exit
+}
+
+IG_VIP_Team_Select
+{
+\ySelect a team\w
+
+1. Terrorist Faction
+2. Counter-Terrorist force
+3. VIP
+
+5. Auto-select
+
+0. Exit
+}
+
+
+Terrorist_Select
+{
+\ySelect your appearance\w
+
+1. Phoenix Connektion
+2. L337 Krew
+3. Arctic Avengers
+4. Gorilla Warface
+
+5. Auto-select
+}
+
+CT_Select
+{
+\ySelect your appearance\w
+
+1. Seal Team 6 (DEVGRU)
+2. German GSG-9
+3. UK SAS
+4. French GIGN
+
+5. Auto-select
+}
+
+		Menu_Buy,
+		Menu_BuyPistol,
+		Menu_BuyRifle,
+		Menu_BuyMachineGun,
+		Menu_BuyShotgun,
+		Menu_BuySubMachineGun,
+		Menu_BuyItem
+
+Buy
+{
+\yBuy Item\w
+
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
+
+6. Primary weapon ammo
+7. Secondary weapon ammo
+
+8. Equipment
+
+0. Exit
+}
+
+BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w7. NightVision Goggles\y\R1250
+
+\w0. Exit
+}
+
+DCT_BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. Defuse Kit\y\R200
+\w7. NightVision Goggles\y\R1250
+
+\w0. Exit
+}
+
+DT_BuyItem
+{
+\yBuy Equipment\R$   Cost
+
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest & Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\d6. Defuse Kit\y\R200
+\w7. NightVision Goggles\y\R1250
+
+\w0. Exit
+}
+
+CT_BuyPistol
+{
+\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. H&K USP .45 Tactical\y\R500
+\w2. Glock18 Select Fire\y\R400
+\w3. Desert Eagle .50AE\y\R650
+\w4. SIG P228\y\R600
+\d5. Dual Beretta 96G Elite\y\R1000
+
+\w0. Exit
+}
+
+T_BuyPistol
+{
+\yBuy Handgun\R$   Cost
+(Secondary weapon)
+
+\w1. H&K USP .45 Tactical\y\R500
+\w2. Glock18 Select Fire\y\R400
+\w3. Desert Eagle .50AE\y\R650
+\w4. SIG P228\y\R600
+\w5. Dual Beretta 96G Elite\y\R1000
+
+\w0. Exit
+}
+
+
+AS_BuyShotgun
+{
+\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\d1. Benelli M3 Super90\y\R1700
+\d2. Benelli XM1014\y\R3000
+
+\w0. Exit
+}
+
+
+BuyShotgun
+{
+\yBuy Shotgun\R$   Cost
+(Primary weapon)
+
+\w1. Benelli M3 Super90\y\R1700
+\w2. Benelli XM1014\y\R3000
+
+\w0. Exit
+}
+
+T_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\w1. AK-47\y\R2500
+\w2. Sig SG-552 Commando\y\R3500
+\d3. Colt M4A1 Carbine\R3100
+\d4. Steyr Aug\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\w5. Steyr Scout\y\R2750
+\w6. AI Arctic Warfare/Magnum\y\R4750
+\w7. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+CT_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\d1. AK-47\R2500
+\d2. Sig SG-552 Commando\y\R3500
+\w3. Colt M4A1 Carbine\y\R3100
+\w4. Steyr Aug\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\w5. Steyr Scout\y\R2750
+\w6. AI Arctic Warfare/Magnum\y\R4750
+\w7. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+
+AS_T_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\w1. AK-47\y\R2500
+\d2. Sig SG-552 Commando\y\R3500
+\d3. Colt M4A1 Carbine\R3100
+\d4. Steyr Aug\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\w5. Steyr Scout\y\R2750
+\w6. AI Arctic Warfare/Magnum\y\R4750
+\w7. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+AS_CT_BuyRifle
+{
+\yBuy Assault Rifle (Primary weapon)\R$   Cost
+
+\d1. AK-47\R2500
+\d2. Sig SG-552 Commando\y\R3500
+\w3. Colt M4A1 Carbine\y\R3100
+\w4. Steyr Aug\R3500
+
+\yBuy Sniper Rifle (Primary weapon)
+
+\d5. Steyr Scout\y\R2750
+\d6. AI Arctic Warfare/Magnum\y\R4750
+\w7. H&K G3/SG-1 Sniper Rifle\y\R5000
+
+\w0. Exit
+}
+
+
+
+CT_BuySubMachineGun
+{
+\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. H&K MP5-Navy\y\R1500
+\w2. Steyr Tactical Machine Pistol\y\R1250
+\w3. FN P90\y\R2350
+\d4. Ingram MAC-10\y\R1400
+
+\w0. Exit
+}
+
+T_BuySubMachineGun
+{
+\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. H&K MP5-Navy\y\R1500
+\d2. Steyr Tactical Machine Pistol\y\R1250
+\w3. FN P90\y\R2350
+\w4. Ingram MAC-10\y\R1400
+
+\w0. Exit
+}
+
+AS_CT_BuySubMachineGun
+{
+\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. H&K MP5-Navy\y\R1500
+\w2. Steyr Tactical Machine Pistol\y\R1250
+\w3. FN P90\y\R2350
+\d4. Ingram MAC-10\y\R1400
+
+\w0. Exit
+}
+
+AS_T_BuySubMachineGun
+{
+\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
+
+\d1. H&K MP5-Navy\y\R1500
+\d2. Steyr Tactical Machine Pistol\y\R1250
+\d3. FN P90\y\R2350
+\w4. Ingram MAC-10\y\R1400
+
+\w0. Exit
+}
+
+AS_T_BuyMachineGun
+{
+\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\d1. FN M249 Para\y\R5750
+
+\w0. Exit
+}
+
+
+BuyMachineGun
+{
+\yBuy Machine Gun\R$   Cost
+(Primary weapon)
+
+\w1. FN M249 Para\y\R5750
+
+\w0. Exit
+}
+
+RadioA
+{
+\yRadio Commands\w
+
+1. "Cover Me"
+2. "You Take the Point"
+3. "Hold This Position"
+4. "Regroup Team"
+5. "Follow Me"
+6. "Taking Fire, Need Assistance"
+
+0. Exit
+}
+
+RadioB
+{
+\yGroup Radio Commands\w
+
+1. "Go"
+2. "Fall Back"
+3. "Stick Together Team"
+4. "Get in Position"
+5. "Storm the Front"
+6. "Report In"
+
+0. Exit
+}
+
+RadioC
+{
+\yRadio Responses/Reports\w
+
+1. "Affirmative/Roger"
+2. "Enemy Spotted"
+3. "Need Backup"
+4. "Sector Clear"
+5. "I'm in Position"
+6. "Reporting In"	
+7. "She's gonna Blow!"
+8. "Negative"
+9. "Enemy Down"
+
+0. Exit
+}
+
+
+
+
+
+
+// SDK 2.0 Spectator Menu
+Spec_Mode1
+{
+Locked Chase-Camera Mode
+}
+
+Spec_Mode2
+{
+Free Chase-Camera Mode
+}
+
+Spec_Mode3
+{
+Free-Look Mode
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help
+{
+FIRE1 for Next Target  FIRE2 for Prev Target  JUMP to Change Modes
+}
+
+Spec_Help2
+{
+Your text messages can only be seen by other Spectators
+}
+
+Spectators
+{
+Spectators
+}
+
+Unassigned
+{
+Unassigned
+}
+
+// Scoreboard
+TEAMS
+{
+Teams
+}
+
+PLAYERS
+{
+Players
+}
+
+CLASS
+{
+Class
+}
+
+SCORE
+{
+Frags
+}
+
+DEATHS
+{
+Deaths
+}
+
+LATENCY
+{
+Ping
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}
+
+Menu_Spectate
+{
+SPECTATE
+}
+
+
+Team_AutoAssign
+{
+AUTO ASSIGN
+}
+
+Title_SelectYourTeam
+{
+SELECT YOUR TEAM
+}
+
+
+
+Target_Bombed
+{
+Target Succesfully Bombed!
+}
+
+VIP_Escaped
+{
+The VIP has escaped!
+}
+
+VIP_Assasinated
+{
+VIP has been assassinated!
+}
+
+Terrorists_Escaped
+{
+The terrorists have escaped!
+}
+
+CTs_PreventEscape
+{
+The CTs have prevented most of the terrorists from escaping!
+}
+
+Escaping_Terrorists_Neutralized
+{
+Escaping terrorists have all been neutralized!
+}
+
+Bomb_Defused
+{
+The bomb has been defused!
+}
+
+CTs_Win
+{
+Counter-Terrorists Win!
+}
+
+Terrorists_Win
+{
+Terrorists Win!
+}
+
+Round_Draw
+{
+Round Draw!
+}
+
+All_Hostages_Rescued
+{
+All Hostages have been rescued!
+}
+
+Target_Saved
+{
+Target has been saved!
+}
+
+Hostages_Not_Rescued
+{
+Hostages have not been rescued!
+}
+
+Terrorists_Not_Escaped
+{
+Terrorists have not escaped!
+}
+
+VIP_Not_Escaped
+{
+VIP has not escaped!
+}
+
+
+
+
+Cannot_Buy_This
+{
+You cannot buy this item!
+}
+
+Not_Enough_Money
+{
+You have insufficient funds!
+}
+
+Weapon_Not_Available
+{
+This weapon is not available to you!
+}
+
+Already_Have_Armour
+{
+You already have body armour!
+}
+
+Cannot_Carry_Anymore
+{
+You cannot carry anymore!
+}
+
+Already_Have_One
+{
+You already have one!
+}
+
+Cannot_Switch_From_VIP
+{
+You are the VIP! You cannot switch roles now
+}
+
+All_Teams_Full
+{
+All teams are full!
+}
+
+Terrorists_Full
+{
+The terrorist team is full!
+}
+
+CTs_Full
+{
+The CT team is full!
+}
+
+Too_Many_Terrorists
+{
+There are too many terrorists!
+}
+
+Too_Many_CTs
+{
+There are too many CTs!
+}
+
+Wait_3_Seconds
+{
+Please wait 3 seconds...
+}
+
+Only_1_Team_Change
+{
+Only 1 team change is allowed...
+}
+
+Ignore_Broadcast_Messages
+{
+Now ignoring BROADCAST messages
+}
+
+Ignore_Broadcast_Team_Messages
+{
+Now ignoring TEAM/BROADCAST messages
+}
+
+Accept_All_Messages
+{
+Now accepting ALL text messages
+}
+
+Ignore_Radio
+{
+Now IGNORING radio messages
+}
+
+Accept_Radio
+{
+Now ACCEPTING radio messages
+}
+
+Command_Not_Available
+{
+This command is not available to you at this point
+}
+
+Defusing_Bomb_With_Defuse_Kit
+{
+Defusing bomb WITH Defuse kit...
+}
+
+Defusing_Bomb_Without_Defuse_Kit
+{
+Defusing bomb WITHOUT Defuse kit...
+}
+
+Killed_Hostage
+{
+You killed a hostage!
+}
+
+Injured_Hostage
+{
+You injured a hostage!
+}
+
+Auto_Team_Balance_Next_Round
+{
+*** Auto-Team Balance next round ***
+}
+
+All_VIP_Slots_Full
+{
+All 5 VIP slots have been filled up..Please try again later
+}
+
+Killed_Teammate
+{
+You killed a teammate!
+}
+
+Banned_For_Killing_Teammates
+{
+You are being banned from the server for killing too many teammates
+}
+
+Cannot_Vote_Map
+{
+You cannot vote within 3 minutes of a new map
+}
+
+Weapon_Cannot_Be_Dropped
+{
+This weapon cannot be dropped
+}
+
+Terrorist_Escaped
+{
+A terrorist has escaped!
+}
+
+C4_Plant_At_Bomb_Spot
+{
+C4 must be planted at a bomb site!
+}
+
+C4_Arming_Cancelled
+{
+Arming Sequence Canceled. C4 can only be placed at a Bomb Target
+}
+
+Bomb_Planted
+{
+The bomb has been planted!
+}
+
+C4_Activated_At_Bomb_Spot
+{
+C4 must be activated at a Bomb Target
+}
+
+Switch_To_BurstFire
+{
+Switched to Burst-Fire mode
+}
+
+Switch_To_SemiAuto
+{
+Switched to semi-automatic
+}
