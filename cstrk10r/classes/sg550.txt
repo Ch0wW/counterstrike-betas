@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $4200
+Country of Origin	: Switzerland
+Calibre		: 5.56mm NATO
+Clip Capacity	: 30 rounds
+Rate of Fire(CS)	: N/A
+Weight(EMPTY)	: 7.02 kg.
+
+Projectile Weight	: 4 grams
+Muzzle Velocity	: 3100 feet/second
+Muzzle Energy	: 1650 joules
+
+
+
+
+

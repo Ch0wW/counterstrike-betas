@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $2750
+Country of Origin	: Austria
+Manufacturer	: Steyr
+Calibre		: 7.62mm NATO
+Clip Capacity	: 10 rounds
+Rate of Fire	: N/A
+Weight(EMPTY)	: 3.3 kg.
+
+Projectile Weight	: 8 grams
+Muzzle Velocity	: 2800 feet/second
+Muzzle Energy	: 2200 joules
+
+
+
+
+

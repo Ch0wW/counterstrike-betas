@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $400
+Country of Origin	: Austria
+Manufacturer	: Glock
+Calibre		: 9mm Parabellum
+Clip Capacity	: 20 rounds
+Rate of Fire	: N/A
+Weight(LOADED)	: 0.9 kg.
+
+Projectile Weight	: 8 grams
+Muzzle Velocity	: 1132 feet/second
+Muzzle Energy	: 475 joules
+
+
+
+
+

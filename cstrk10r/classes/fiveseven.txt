@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $750
+Country of Origin	: Belgium
+Calibre		: 5.7 x 28mm
+Clip Capacity	: 20 rounds
+Rate of Fire	: N/A
+Weight(LOADED)	: 0.618 kg.
+
+Projectile Weight	: 2 grams
+Muzzle Velocity	: 2345 feet/second
+Muzzle Energy	: 465 joules
+
+
+
+
+

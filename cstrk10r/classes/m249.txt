@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $5750
+Country of Origin	: Belgium
+Manufacturer	: Fabrique Nationale
+Calibre		: 5.56mm Nato
+Clip Capacity(CS)	: 100 rounds
+Rate of Fire	: 600 rpm
+Weight(EMPTY)	: 6 kg.
+
+Projectile Weight	: 4 grams
+Muzzle Velocity	: 3000 feet/second
+Muzzle Energy	: 1600 joules
+
+
+
+
+

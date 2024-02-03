@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $4750
+Country of Origin	: United Kingdom
+Manufacturer	: Accuracy International
+Calibre		: .338 Lapua Magnum
+Clip Capacity(CS)	: 10 rounds
+Rate of Fire	: N/A
+Weight(EMPTY)	: 6 kg.
+
+Projectile Weight	: 16.2 grams
+Muzzle Velocity	: 3000 feet/second
+Muzzle Energy	: 7000 joules
+
+
+
+

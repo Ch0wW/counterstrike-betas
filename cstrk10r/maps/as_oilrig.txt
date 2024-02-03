@@ -1,0 +1,21 @@
+OilRig - Assassination
+Map by MacMan (macmaninfi@aol.com)
+Textures by MacMan
+Westland Wessex helicopter by Agent Orange 
+[agentorange@freemail.nl]
+
+Background: The most important criminal 
+witness in history has been hiding out on 
+an oilrig as part of a witness protection 
+program. But word is that his location has 
+been discovered. A transport helicopter has 
+been sent in to move the witness to a new 
+location.
+
+Counter-Terrorists: Protect the VIP at all 
+costs. Escort him topside to the helicopter.
+
+Terrorists: Eliminate the VIP before he 
+escapes.
+
+(Press FIRE to continue)

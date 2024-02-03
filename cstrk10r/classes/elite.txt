@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $1000
+Country of Origin	: Italy
+Manufacturer	: Beretta
+Calibre		: 9mm Parabellum
+Clip Capacity	: 15 rounds
+Rate of Fire	: N/A
+Weight(LOADED)	: 1.15 kg.
+
+Projectile Weight	: 8 grams
+Muzzle Velocity	: 1280 feet/second
+Muzzle Energy	: 606 joules
+
+
+
+
+

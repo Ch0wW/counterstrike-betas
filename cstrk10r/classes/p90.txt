@@ -1,0 +1,17 @@
+____________________________________________________________________________________________________________________________
+
+Country of Origin	: Belgium
+Manufacturer	: Fabrique Nationale
+Calibre		: .338 Lapua Magnum
+Clip Capacity	: 50 rounds
+Rate of Fire	: 900
+Weight(LOADED)	: 3 kg.
+
+Projectile Weight	: 2 grams
+Muzzle Velocity	: 2345 feet/second
+Muzzle Energy	: 465 joules
+
+
+
+
+

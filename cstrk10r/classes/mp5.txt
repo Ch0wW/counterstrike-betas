@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $1500
+Country of Origin	: Germany
+Manufacturer	: Heckler & Koch
+Calibre		: 9mm Parabellum
+Clip Capacity(CS)	: 30 rounds
+Rate of Fire	: 800 rpm
+Weight(EMPTY)	: 3.42 kg
+
+Projectile Weight	: 8 grams
+Muzzle Velocity	: 1312 feet/second
+Muzzle Energy	: 637 joules
+
+
+
+
+

@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________________________________
+
+Price			: $650
+Country of Origin	: Israel
+Manufacturer	: Israeli Military Industries
+Calibre		: .50 Action Express
+Clip Capacity(CS)	: 7
+Rate of Fire	: N/A
+Weight(EMPTY)	: 1.8 kg
+
+Projectile Weight	: 19.4 grams
+Muzzle Velocity	: 1380 feet/second
+Muzzle Energy	: 1650 joules
+
+
+
+
+

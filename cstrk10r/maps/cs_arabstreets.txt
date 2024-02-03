@@ -1,0 +1,20 @@
+cs_arabstreets - Hostage Rescue
+Mapping and Textures by:
+Paramedic911 (jason911@home.com) 
+
+Briefing:
+Several U.N. Weapons inspectors 
+have vanished while inspecting
+a suspected chemical weapons 
+factory in Iraq. They are assumed 
+to be dead or captive.
+
+Counter-Terrorists: Locate and 
+rescue the U.N. hostages inside 
+the chemical plant, and then lead 
+them to the extrication zone! 
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages.
+
+(Press FIRE to continue)
