@@ -1,8 +1,0 @@
-____________________________________________________________________________________________________________________________
-
-Price		: $300
-Description	: Makes a loud noise and blinding flash when thrown at enemy (pull pin first). Useful for causing distractions
-before entering an area.
-
-
-

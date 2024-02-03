@@ -1,0 +1,14 @@
+// overview description file for as_tundra.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	20 	143	-800
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_tundra.bmp"
+	HEIGHT	-800
+}

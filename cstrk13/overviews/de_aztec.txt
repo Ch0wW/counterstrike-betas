@@ -1,0 +1,14 @@
+// overview description file for de_dust.bsp
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	767 	-98	-545
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztec.bmp"
+	HEIGHT	-545
+}

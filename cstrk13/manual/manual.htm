@@ -1,0 +1,2374 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE>Counter-Strike Manual</TITLE>
+<LINK 
+title="global css" href="cssnet.css" type=text/css 
+rel=stylesheet>
+
+
+</HEAD>
+
+
+
+<style>
+
+A.cnet
+{
+    COLOR: blue
+}
+A.cnet:hover
+{
+    COLOR: blue
+}
+A.cnet:unknown
+{
+    COLOR: blue
+}
+A.cnet:link
+{
+    COLOR: blue
+}
+.text
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: verdana
+}
+A:link
+{
+    COLOR: #000033;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #3C5060;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #000033;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: underline
+}
+
+
+BODY
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 22px;
+    FONT-FAMILY: Arial
+}
+
+.newshead
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #ada369;
+    FONT-FAMILY: arial
+}
+.news
+{
+	FONT-SIZE: 9pt;
+	COLOR: #0F171A;
+	FONT-FAMILY: Arial
+}
+.small
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: verdana
+}
+.page_head
+{
+    FONT-SIZE: 18pt;
+    COLOR: #333c48;
+    FONT-FAMILY: arial
+}
+
+.page_head2
+{
+    FONT-SIZE: 25pt;
+    COLOR: white;
+    FONT-FAMILY: arial
+}
+</style>
+
+
+
+
+<BODY bgColor="#777777" leftMargin=0 topMargin=22 marginheight="0" marginwidth="0">
+<CENTER>
+
+
+
+
+
+	  
+	  <p>
+
+
+	  
+	  
+	  
+	  
+	  <center>
+
+	  
+	  
+	   
+	  
+	  
+
+	  
+	
+
+	  <p>
+	
+ 
+ 
+ 
+  <table align="center" bgcolor="#1f2d45" width="750" cellspacing="0" cellpadding="5" border="0">
+<tr>
+    <td><div class=page_head2>
+		<b>&nbsp;&nbsp;Counter-Strike 1.3 Manual</b>
+			</div></td>
+</tr>
+</table>
+
+
+
+
+  <table align="center" bgcolor="#1f2d45" width="750" cellspacing="0" cellpadding="2" border="0">
+<tr>
+    <td>
+			
+			
+			
+			
+			<table align="center" bgcolor="#FFFFFF" width="100%" cellspacing="0" cellpadding="15" border="0">
+<tr>
+    <td width="20%" valign=top><div class=news>
+	<b>Official Site</b></a>
+        <hr width="100%" align="left" noshade size="1" color="#11242d">
+		
+		
+		
+		<br>
+		[ <b><a href="http://www.counter-strike.net/">Counter-strike.net</a></b> ]
+		<br>
+		The official web site, and home of Counter-Strike. Check here for the latest news from the team. Learn all <a href="http://www.counter-strike.net/about.html"><b>about</b></a> the game and read the <a href="http://www.counter-strike.net/faq.html"><b>FAQ</b></a>. <a href="http://www.counter-strike.net/downloads.html"><b>Download</b></a> the newest CS version. Discuss CS with other players at the official <a href="http://forums.counter-strike.net/"><b>forums</b></a>.
+
+<p>
+		<hr width="100%" align="left" noshade size="1" color="#11242d">
+		<p>
+		
+		<b><a href="http://csnation.counter-strike.net/">CSNation</a></b>
+		<br>
+		For the latest news in the CS community. Rze and the boys have all the news.
+
+		<p>
+		
+		<b><a href="http://crossfire.counter-strike.net/">CS Crossfire</a></b>
+		<br>
+		Articles on a range of CS issues with comments by CS players.
+
+<p>
+		
+		<b><a href="http://enquirer.counter-strike.net/">CS National Enquirer</a></b>
+		<br>
+		CS news with a twist. You'll laugh, you'll cry.
+
+		
+		<p>
+		
+		<b><a href="http://art.counter-strike.net/">CS Art</a></b>
+		<br>
+		Player submitted art work. Scud works out the latest pieces of art.
+		
+		<p>
+		
+		<b><a href="http://bot.counter-strike.net/">Bots @ CS.net</a></b>
+		<br>
+		Single player bots to practice against. Featuring the best the community has to offer.
+		
+		
+		<p>
+		
+		<b><a href="http://server.counter-strike.net/">Counter-Server</a></b>
+		<br>
+		Full CS server commands and variables. The complete server op source.
+
+		
+		
+		
+			<p>
+		
+		<b><a href="http://csradio.counter-strike.net/">CS Radio</a></b>
+		<br>
+		The boys at CS Radio have a weekly show dedicated to your favorite game.
+		
+		
+		
+		
+		<p>
+		<hr width="100%" align="left" noshade size="1" color="#11242d">
+		<p>
+		
+		
+		
+		
+	
+	</div></td>
+    <td width="%80">
+	
+	<div class=news>
+	
+	
+	
+	
+	 <p class="heading"><a name="Overview"><b>Overview</b></a>
+        <hr width="100%" align="left" noshade size="1" color="#11242d">
+		
+		
+		
+		
+		
+        Counter-Strike is a modification (MOD) to Valve
+        Software’s hit game Half-Life. It modifies the multiplayer aspects of
+        Half-Life to provide the player with an experience that a trained
+        counter-terrorist unit or terrorist unit might have. Players will join
+        either a terrorist or a counter-terrorist force and play in one of the
+        four types of scenarios. These are:
+        <ul>
+          <li>
+             <b>Hostage Rescue</b>, where the counter-terrorists must
+            rescue hostages.
+          <li>
+             <b>Bomb / Defuse</b>, where terrorists must plant a bomb in
+            a critical area and counter-terrorists must defuse the bomb.</li>
+          <li>
+             <b>Escape</b>, where the terrorists must escape
+            from the counter-terrorists.</li>
+          <li>
+             <b>Assassination</b>, Where the VIP must be
+            escorted by the counter-terrorists to an escape point.</li>
+        </ul>
+         Weapons and other pieces of equipment are available at a
+        cost, and players can earn money in a variety of different ways while
+        playing the game. Players may also lose money for inappropriate actions.
+        E.g. killing a hostage or a teammate.
+        <p class="heading">
+        <a name="GettingStarted">
+        <b>Getting Started</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#11242d">
+           After installing Counter-Strike, you will want to
+          activate it through the Half-Life menu. To do this, choose ‘custom
+          game’ from the initial Half-Life menu, then select Counter-Strike
+          from the list that appears. Choose ‘activate’ and you should
+          notice that the appearance of the menus has changed.
+           The next thing you will want to do is familiarize
+          yourself with the mapping of the game <a href="#Controls"><b>controls</b></a>
+          on your keyboard/mouse. Choose ‘configuration-&gt;<a href="#Controls"><b>controls</b></a>’
+          and look over the default keyboard configuration. To change any of the
+          default mappings, double-click on the key/button field in the window.
+          You will then be able to enter your desired key for that function. (A
+          warning; if the new key/button was previously mapped to another
+          function, you will need to select a new key for that function, as it
+          will no longer have a key mapping).
+           If you have no previous experience with Half-Life,
+          it is strongly recommended that you play the excellent tutorial
+          included with that game. See the ‘<a href="#Controls"><b>Controls</b></a>’
+          section below for a description of what each game <a href="#Controls"><b>control</b></a>
+          does.</p>
+
+	
+	
+	
+	
+	
+	<p class="heading"><a name="Scenarios"><br>
+        <br>
+        <b>The Scenarios</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#11242d">
+           <b>Hostage Rescue</b><br>
+          As a terrorist, your role in a hostage rescue level is to prevent
+          counter-terrorists (CTs) from leading the hostages from where they are
+          being held to the hostage rescue zone. Terrorists win hostage rescue
+          rounds by eliminating the counter-terrorist force while preventing
+          them from rescuing hostages.
+           CTs win a round by finding the hostages and
+          leading more than half of them to freedom. CTs can get the attention
+          of a hostage by moving near him then pressing their ‘Use’ key (see
+          <a href="#Controls"><b>Controls</b></a>, Use). The hostage will now
+          follow the CT back to the rescue zone. If a CT wants the hostage to
+          stop following, they need to press ‘Use’ again and the hostage
+          will stay put. Sometimes when you have a group of hostages following
+          you, they may block you into an area; you can push them out of the way
+          by simply walking into them. CTs can also win a round by eliminating
+          the terrorists.
+		  <p>
+           <b>Bomb/Defuse</b><br>
+          In a bomb/defuse map, the goal of the terrorist is to plant a C4 bomb
+          in the designated area then prevent the CTs from defusing the bomb.
+          Players must remember to stay well clear of the bomb when it explodes,
+          as it has a large and deadly blast radius. The bomb is randomly
+          assigned to a terrorist at the start of the round. Team members can
+          identify the bomb carrier by the backpack they are wearing and the
+          player with the bomb will see an icon on their Heads Up Display (see <a href="#HUD"><b>HUD</b></a>,
+          bomb carrier). To plant the bomb, the carrier must be in the vicinity
+          of the bombing target. While having the bomb as their currently
+          selected item, the player must then press and hold their fire key (see
+          <a href="#Controls"><b>Controls</b></a>, Fire) for three seconds for
+          the bomb to be planted. The bomb will go off after a set period of
+          time has passed (45 seconds by default). The level is won by the
+          terrorists when the bomb explodes (maximum payoff) or if the CT team
+          is eliminated (smaller payoff).
+           CTs can win a defuse map in two ways: by defusing
+          the bomb or by eliminating the Terrorists (if the Terrorists managed
+          to plant the bomb before being eliminated, CTs must still defuse the
+          bomb to win the round). To defuse the bomb, CTs must stand near the
+          bomb, target it then press and hold their ‘use’ key until the bomb
+          is defused. Buying a defuse kit will halve the time required to defuse
+          a bomb.</p>
+         <b>Escape<br>
+        </b>The terrorist team starts out in a fortified location and must "escape" to one of the pre-defined escape points. The CT's must exterminate
+        them before they can escape. The Terrorists win the round once 50% of the team has
+        successfully escaped. They can also break into the armory to steal weapons,
+        or just get out of there. The two teams will switch roles after every 8 rounds of play.
+        Both sides can also win the scenario if they manage to wipe the
+        opposition team out.</p>
+           <b>Assassination</b><br>
+          One member of the CT team will serve as the VIP. The object is to get the VIP safely to the pre-defined escape points. If he
+          dies, the CT's lose the round. If he makes it safely, the CT's win.
+          The VIP has a unique skin, only carries a knife and pistol, and has ample body armor.&nbsp;</p>
+         The terrorist job is to assassinate the VIP, but
+        with the other CT's guarding the VIP it is never an easy task.</p>
+            Certain weapons cannot be purchased by each team in this gameplay
+          scenario, and these will be grayed out on the weapon selection screen.</p>
+          <p class="maintext"> &nbsp;</p>
+        <p class="heading"><a name="Money"><b>Money</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#11242d">
+         Various events in the course of a Counter-Strike
+        game can earn you money (to a maximum of $16000) or cost you money. This
+        money can be used to buy better equipment. The following is a summary of
+        these events and their associated cost:
+        <p class="maintext">&nbsp;
+
+	
+	
+	
+	
+	
+	
+	
+	
+	        <table border="1" cellPadding="3" cellSpacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td bgColor="#182130" vAlign="top" width="41%" class="text"><b>
+                <p class="text"><font color="#ffffff">Action</b></p>
+                </font>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="59%" class="text"><b>
+                <p class="text"><font color="#ffffff">Payoff / Fine</font></b></p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Rescuing a Hostage</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$1000 for individual, $150 for team mates
+                (awarded at end of round)</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Kill a Hostage</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">-$1500 for individual</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">‘Use’ a Hostage</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$150 for individual, $100 for team mates</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Kill Opponent</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$300 for individual</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Kill Team Mate</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">-$3300 for individual</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Terrorists Win by Bombing Target</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$2750 for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Win by Elemination Hostage map</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$2000 for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Win by Elemination Bomb map</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$2500 for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">CTs Defuse Bomb</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$2750 for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">CTs Win by Rescuing Hostages</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$2000 for team members + Hostage bonuses</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Surviving Hostage Bonus</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$150 per hostage for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Hostages Rescued Bonus</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$250 per hostage for CT team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Either Team Loses Round</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$1400 for team members</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="41%" class="text">
+                <p class="text">Either Team Loses over 2 Consecutive Rounds</p>
+              </td>
+              <td vAlign="top" width="59%" class="text">
+                <p class="text">$1400 + $500 per round over 2 (to maximum
+                $2900)<br>
+                for team members</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 <br>
+        Money can be spent on weapons whenever the player is standing in a buy
+        zone. This is indicated by the presence of the buy icon on the Heads Up
+        Display (see <a href="#HUD"><b>HUD</b></a>
+        below).
+        <p class="maintext">&nbsp;
+        <p class="heading"><a name="GameFlow"><b>Game Flow</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+         Prior to the round starting, there is a variable
+        grace period (the server can change this, but it defaults to five
+        seconds) during which players cannot move but may buy equipment and
+        weapons. Each round of Counter-Strike lasts for five minutes. If neither
+        team has won after this time the round is considered a win depending on
+        the scenario:
+        <blockquote>
+           - <b>Hostage</b>: If after the round ends and
+          there is at least 1 player left on both teams, and not all the
+          hostages have been rescued then the game will be a win for the
+          terrorists.<br>
+          - <b>Bomb / Defuse</b>: If the round ends, with the bomb having not
+          blown up a target, and there is still at least 1 player left on both
+          sides the CT's will win.&nbsp;<br>
+          - <b>Escape</b>: If the round ends, with at least 1 player alive on
+          both teams, and less than 50% of the terrorists have escape, the CT's
+          will win.<br>
+          - <b>Assassination</b>: If the round ends, with players left on both
+          teams and the VIP has not reached the escape point, the terrorists
+          win.&nbsp;</p>
+        </blockquote>
+         When a player is killed during a round they will
+        enter an observer mode until the next round. While in observer mode,
+        they can fly around the level and watch the action. There are three
+        types of observer modes. The first is ghost mode, where the player can
+        freely fly around the level unobstructed by anything. The second is
+        locked chasecam. While in locked chasecam you will be locked behind the
+        player you are observing. The third is freelook chasecam, in this mode
+        you can freely swing the camera around the player you are observing.
+        While in the observer modes you can use the jump key (see <a href="#Controls"><b>Controls</b></a>,
+        Jump) to switch between the three modes and the fire button (see <a href="#Controls"><b>Controls</b></a>,
+        Fire) to switch from one player to the next. If a player joins into a
+        game when a round is already in progress, they will be immediately
+        placed into observer mode until the current round ends.
+        <p class="maintext">&nbsp;
+        <p class="heading"><a name="Controls">Controls</a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+         
+        The following is a list of he player controls, their default keyboard/mouse mapping and a description of what each does.<P>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="100%">
+<TR><TD WIDTH="33%" VALIGN="TOP" BGCOLOR="#182130" class="text">
+<B><P><FONT COLOR="#FFFFFF">Function</FONT></B></TD>
+<TD WIDTH="33%" VALIGN="TOP" BGCOLOR="#182130" class="text">
+<B><P><FONT COLOR="#FFFFFF">Default Key Mapping</FONT></B></TD>
+<TD WIDTH="33%" VALIGN="TOP" BGCOLOR="#182130" class="text">
+<B><P><FONT COLOR="#FFFFFF">Notes</FONT></B></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Buy Menu</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>B</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>The main point of entry for the buying menus</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Buy Equipment Menu (Optional)</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>O</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Takes you directly to the equipment purchase menu</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Buy Primary Ammo (Optional)</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>,</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Automatically buys a single clip of ammo for your primary weapon</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Buy Secondary Ammo (Optional)</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>.</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Automatically buys a single clip of ammo for your secondary weapon</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Select Team</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>M</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Change sides. You will die until next round starts</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Drop Current Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>T</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>You can only carry one primary and one secondary weapon. To pick up a better weapon from the battlefield, first drop your existing</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Standard Radio Messages</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Z</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Brings up a list of radio commands. Press the corresponding number to utter the message</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Group Radio Messages</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>X</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Brings up a list of radio commands. Press the corresponding number to utter the message</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Report Radio Messages</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>C</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Brings up a list of radio commands. Press the corresponding number to utter the message</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Move Forward</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>W or UP ARROW</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Move Back</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>S or DOWN ARROW</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Turn Left</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Mouse X AXIS or LEFT ARROW</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse for looking</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Turn Right</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Mouse X AXIS or RIGHT ARROW</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse for looking</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Move Left (Strafe)</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>A</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Move Right (Strafe)</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>D</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Jump</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>SPACE</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Cycles through the three observer modes</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Duck</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>CTRL</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Swim Up</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>'</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Swim Down</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>/</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Look Up</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Mouse X AXIS or PGUP</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Look Down</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Mouse X AXIS or PGDN</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Look Straight Ahead</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>END</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Strafe Modifier</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>ALT</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Optional</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Mouse Look Modifier</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>;</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Keyboard Look Modifier</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>INS</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Unnecessary if using Mouse</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Fire</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>MOUSE BUTTON 1 or</P>
+<P>ENTER</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Fire Weapon, Throw Grenade, Plant C4, Will jump to next player in observer mode</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Special Weapon Function</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>MOUSE BUTTON 2 or \</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Invokes your weapons secondary function, i.e. burst fire, sniper scope etc</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Reload Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>R</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Tops up your clip…good idea before joining a firefight.</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Drop Current Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>G</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Drops the currently held weapon</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Use</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>E</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Press a button, get hostage to follow you, defuse bomb, etc</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Walk</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>SHIFT</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Move forward at slower, quieter pace (important for stealth)</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+Night vision goggles</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+N</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+Toggles the Night vision on/off (must be bought via equipment menu first)</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Flashlight</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>F</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Toggles your flash light on and off</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Spray Logo</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>T</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Pick logos in Customize Menu</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 0</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>0</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 1</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>1</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 2</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>2</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 3</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>3</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 4</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>4</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 5</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>5</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 6</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>6</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 7</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>7</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 8</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>8</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Menu Item 9</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>9</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Previous Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>MOUSE WHEEL DOWN or [</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Next Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>MOUSE WHEEL UP or ]</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Last Used Weapon</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Q</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Display Multiplayer Scores</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>TAB</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Shows scores, teams, wins, frags, status, bomb carrier etc</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Recap Mission Briefing</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>I</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Press Jump, Fire or Special Weapon function to make the mission briefing go away</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Chat Message</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>Y</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Broadcast message to all</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Team Chat Message</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>U</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Broadcast message to team</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Take Screen Shot</TD>
+<TD WIDTH="33%" VALIGN="TOP" ALIGN="center" class="text">
+<P>F5</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Quit</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" class="text">
+<P>Not assigned by default</TD>
+</TR>
+</TABLE>
+
+	
+	
+	
+	
+	
+	<p>
+	
+	
+	
+	
+	<a name="Weapons&amp;Equipment"><b>Weapons &amp;
+        Equipment</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+        Weapons are divided into three categories: Primary
+        (Rifles, Shotguns, Sub-Machine Guns and Machine Guns), Secondary
+        (Handguns) and Melee (Knife). Equipment such as hand-grenades and
+        defusing kits have their own category. Players may only carry one item
+        at a time in each of these categories except equipment, which can have
+        several items at once. Some weapons may also have a special action (see <a href="#Controls"><b>Controls</b></a>,
+        Special Weapon Function); these are listed in the table below.</p>
+      <b>Primary Weapons</b><br>
+
+	
+	
+	
+	<table border="1" cellPadding="2" cellSpacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td bgColor="#182130" vAlign="top" width="38%" class="text"><b>
+                <p class="text"><font color="#ffffff">Name</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="21%"><b>
+                <p class="text"><font color="#ffffff">Cost</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="41%"><b>
+                <p class="text"><font color="#ffffff">Notes</font></b></p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <p class="text">Benneli M3 Super90</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$1700</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Shotgun</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <p class="text">Benneli XM1014</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$3000</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Full Auto Shotgun</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <p class="text">H&amp;K MP5-Navy</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$1500</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Sub-Machine Gun</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <p class="text">Steyr Tactical</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$1250</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Machine Pistol</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <p class="text">FN P90</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$2350</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Sub-Machine Gun</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                Ingram MAC-10
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$1400
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Sub-Machine Gun
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%" class="text">
+                <font size="1" face="Verdana">H&amp;K UMP</font>
+              </td>
+              <td vAlign="top" width="21%">
+                <font size="1" face="Verdana">$1700</font>
+              </td>
+              <td vAlign="top" width="41%">
+                <font size="1" face="Verdana">Sub-Machine Gun</font>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">AK-47</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$2500</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Available to Terrorists only</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Colt M4A1 Carbine</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$3100</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Available to Counter-Terrorists only, use
+                special function key to toggle silencer</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Steyr AUG
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$3500
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Available to Counter-Terrorists only, use
+                special function key to toggle scope
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Sig SG-552 Commando</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$3500</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Use special function key to toggle scope</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Steyr Scout</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$2750</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Sniper Rifle-use special function key to toggle
+                scope</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">AI Arctic Warfare/Magnum</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$4750</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Sniper Rifle-use special function key to toggle
+                scope</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">H&amp;K G3/SG-1</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$5000</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Available to Terrorists only. Sniper Rifle- special function key to toggle
+                scope</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <font size="1" face="Verdana">Sig SG-550 Sniper</font>
+              </td>
+              <td vAlign="top" width="21%">
+                <font size="1" face="Verdana">$4200</font>
+              </td>
+              <td vAlign="top" width="41%">
+                <font size="1" face="Verdana">Available to Counter-Terrorists only.
+                Sniper Rifle- special function key to toggle
+                scope</font>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">FN M249 Para</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$5750</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Full sized machine gun</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="text"><b>Secondary Weapons</b><br>
+        <table border="1" cellPadding="2" cellSpacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td bgColor="#182130" vAlign="top" width="38%"><b>
+                <p class="text"><font color="#ffffff">Name</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="21%"><b>
+                <p class="text"><font color="#ffffff">Cost</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="41%"><b>
+                <p class="text"><font color="#ffffff">Notes</font></b></p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">H&amp;K USP .45 Tactical</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$500</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Default CT weapon, , use
+                special function key to toggle silencer</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Glock 18 Select Fire</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$400</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Default Terrorist weapon. Special action key
+                toggles between burst fire and semi-automatic</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Desert Eagle .50 AE</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$650</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">High caliber Pistol</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">SIG P228</p>
+              </td>
+              <td vAlign="top" width="21%">
+                <p class="text">$600</p>
+              </td>
+              <td vAlign="top" width="41%">
+                <p class="text">Pistol</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <font face="Verdana" size="1"> Dual Beretta 96G</font>
+              </td>
+              <td vAlign="top" width="21%">
+                <font face="Verdana" size="1">$1000</font>
+              </td>
+              <td vAlign="top" width="41%">
+                <font face="Verdana" size="1">Dual Pistols</font>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <font face="Verdana" size="1">FN Five-Seven</font>
+              </td>
+              <td vAlign="top" width="21%">
+                <font face="Verdana" size="1">$750</font>
+              </td>
+              <td vAlign="top" width="41%">
+                <font face="Verdana" size="1">Pistol</font>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="text"><b>Knife<br>
+        </b>
+        <div align="left">
+          <table border="1" cellpadding="2" cellspacing="0" width="100%">
+            <tr>
+              <td width="219" bgcolor="#182130" class="text"><b><font color="#ffffff">Name</font></b></td>
+              <td width="115" bgcolor="#182130" class="text"><b>Cost</b></td>
+              <td width="238" bgcolor="#182130" class="text"><b>Notes</b></td>
+            </tr>
+            <tr>
+              <td width="219" class="text">Knife</td>
+              <td width="115" class="text">N/A</td>
+              <td width="238" class="text">Everyone has the knife. Primary
+                attack gives quick slashes, while a secondary attack will give a
+                slow, but more powerful vicious stab.&nbsp;</td>
+            </tr>
+          </table>
+        </div>
+        <p class="text"><b>Equipment</b><br>
+        <table border="1" cellPadding="2" cellSpacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td bgColor="#182130" vAlign="top" width="38%"><b>
+                <p class="text"><font color="#ffffff">Name</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="19%"><b>
+                <p class="text"><font color="#ffffff">Cost</font></b></p>
+              </td>
+              <td bgColor="#182130" vAlign="top" width="43%"><b>
+                <p class="text"><font color="#ffffff">Notes</font></b></p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Kevlar vest</p>
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$650</p>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Protects chest region</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Kevlar vest and Helmet</p>
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$1000</p>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Protects chest and head</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Night vision goggles
+              </td>
+              <td vAlign="top" width="19%">
+                <pre class="text">$1250</pre>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Enhances vision in darkness
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Concussion Grenades</p>
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$200</p>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">i.e. Flashbang. Temporarily blinds everyone in
+                the vicinity</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">HE Grenade</p>
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$300</p>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Traditional Grenade</p>
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Smoke grenades
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$300
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Releases a carpet of black smoke
+              </td>
+            </tr>
+            <tr>
+              <td vAlign="top" width="38%">
+                <p class="text">Defuse Kit</p>
+              </td>
+              <td vAlign="top" width="19%">
+                <p class="text">$200</p>
+              </td>
+              <td vAlign="top" width="43%">
+                <p class="text">Available to Counter-Terrorists Only, On Bomb
+                Maps Only</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<p class="heading"><a name="HUD"><b>Heads Up Display (HUD)</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+        <p class="text">Whilst playing you will always see the HUD. On the HUD
+        you'll see:
+         <b>TOP OF HUD - left to right</b>
+        <blockquote>
+           <b>Radar </b>- Useful for seeing the approximate
+          location of your team mates. You will see five symbols on the radar:
+          <ul>
+            <li>
+               A purple dot = Team mate.</li>
+            <li>
+               A red dot = Location of the VIP (Shown only to
+              CT's in assassination scenarios) / Bomb carrier (Shown to only to
+              terrorists in bomb / defuse scenarios).</li>
+            <li>
+               A T shape =&nbsp; Indicates your tame mate is a
+              level <u>above</u> you.</li>
+            <li>
+               A upside down T shape = Indicates your team mate
+              is a level <u>below</u> you.</li>
+            <li>
+               A yellow square = A team mate has activated a
+              radio command.</li>
+          </ul>
+          <b>Weapon / equipment selection menu</b> - Will show
+          the weapon you select. Upon selecting a weapon the menu will flash for
+          only 5 seconds to show the weapon you select then disappear. Default
+          keys for the weapons &amp; equipment are:</p>
+          <ul>
+            <li>
+               1 - Primary weapon (Large guns)</li>
+            <li>
+               2 - Secondary weapon (Pistols)</li>
+            <li>
+               3 - Knife</li>
+            <li>
+               4 - Grenades</li>
+            <li>
+               5 - Bomb (Available only to the terrorist who
+              carries the bomb in the bomb / defuse scenario)</li>
+          </ul>
+          <b>Flashlight</b> - All Counter-Strike players are
+          equipped with a flashlight. Toggle it on and off by pressing the
+          flashlight key (see <a href="#Controls"><b>Controls</b></a>,
+          flashlight). When your flashlight is on other players will see the
+          area surrounding you glowing brightly.</p>
+        </blockquote>
+        <b>BOTTOM OF HUD - left to Right</b></p>
+        <blockquote>
+          <b>Health Meter</b> - You will start a round with 100
+          units of health, and die when your health reaches zero.</p>
+          <b>Armor</b> <b>level </b>- Two types of armor can be
+          purchased; a kevlar vest or a vest paired with a helmet. The helmet is
+          moderately affective at reducing damage when hit in the head.</p>
+          <b>Round Timer</b> - Counts down from 5 minutes (the
+          server can change this, but it defaults to five minutes). A round ends
+          when either the objective of the round has been completed, i.e. in
+          Bomb / defuse scenarios the bomb has blown, or if all the players on a
+          team have been eliminated. If the timer reaches zero with neither the
+          objective being completed or all players on one team having been eliminated
+          then, depending on the scenario one side will automatically win. (see <b><a href="#GameFlow">GameFlow</a></b>,
+          list).</p>
+          <b>Ammo Indicator</b> - Your current ammo count is
+          displayed in the lower right hand area, under the cash display. Ammo
+          is broken up into two separate counts: the number of shots in your
+          clip, and the number in your inventory. When your clip is exhausted,
+          it is automatically reloaded for you. If you would like to reload
+          before your clip before it is empty press your reload key. (see <a href="#Controls"><b>Controls</b></a>,
+          Reloading).</p>
+           <b>Cash</b> - Your current account balance. Additions
+          to the cash balance are briefly shown above the balance in green
+          numbers. Fines and penalties are shown in red.</p>
+        </blockquote>
+         <b>MIDDLE LEFT OF HUD&nbsp;</b></p>
+         Depending on your location you will not see all of these
+        icons on the HUD. All these icons are colored green:</p>
+        <blockquote>
+           <b>Basket</b> (Buy Zone)- This means your in your 'buy
+          zone'. Here pressing your buy key (default B) will give you access to
+          the buy menu where you will be able to buy weapons, ammo, and
+          equipment.</p>
+           <b>R</b> (Hostage rescue Zone) - When a
+          counter-terrorist is at the spot where hostages must be delivered,
+          this icon will appear.</p>
+           <b>V</b> (VIP escape point) - When a counter-terrorist
+          or VIP is at the spot where the VIP must reach to escape, this icon
+          will appear.</p>
+           <b>E </b>(Terrorist escape point) - When a terrorist
+          is at the spot where the terrorist can 'escape', this icon will
+          appear.</p>
+           <b>Bomb</b> - This will only be seen by a terrorist
+          who is carrying the bomb in the bomb / defuse scenario. When the bomb
+          carrier is within the bomb delivery zone, this icon will flash.</p>
+           <b>Defuse kit</b> - The icon looking like a pair of
+          wirecutters, will appear on the HUD of any CT player that has bought a
+          Defuse Kit.</p>
+           <b>Scoreboard</b> - Seen when pressing the score key
+          (default key, tab). The scoreboard lists all the latest game
+          statistics and player status. Information on the scorecard tells you
+          who is dead or alive, who is carrying the bomb, player kills and
+          deaths, latency and team scores.</p>
+           &nbsp;</p>
+        </blockquote>
+        <p class="heading"><a name="Hints"><b>Hints</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+         <b>Sound, Pros and Cons</b><br>
+        Stealth is vitally important in Counter-Strike. When a player runs at
+        full tilt (which is the default), their footsteps can be heard. To
+        prevent this, use the walk key (see <a href="#Controls"><b>Controls</b></a>,
+        Walk) when trying to avoid detection. Also be wary of doors, ladders and
+        elevators. These will often emit a sound that may give you or your
+        enemies position away.
+		<p>
+         <b>Life is Precious</b><br>
+        Counter-Strike strives for realism. Running into a firefight all gung-ho
+        will generally get you killed. The player can only sustain a few bullet
+        shots before dying, depending on the type of gun (ammunition actually)
+        being shot with, and the condition and presence of kevlar. There are
+        also one hit kills in CS. Most guns can kill a player in one shot if
+        they connect with the head. Savvy CS players, will take cover as often
+        as possible and use their surroundings to their advantage. Working with
+        your teammates to bring the enemy down is encouraged and necessary to
+        beat the other team. Keep in mind, you only get one life per round in
+        CS. If you die, you will be put into Observer mode until the round is
+        over.
+		<p>
+         <b>Know Your Gun</b><br>
+        Counter-Strike has realistically modeled weaponry. If you run and fire
+        at the same time, your accuracy will be horrible (changes with different
+        guns), Standing still increases accuracy and crouching is even better.
+        Also be aware of the guns recoil, holding down the trigger isn’t as
+        effective as short quick bursts. It is also important to know that all
+        the rifles can shoot through walls to some extent. The Para Machine Gun,
+        and the Desert Eagle Pistol can as well.</p>
+         <b>Map Voting System </b>(New to beta6.5)<br>
+        There is now a way for players to vote for maps. Players can type 'listmaps' to see the maps available to vote on, and then they type
+        'votemap X'      where X is the corresponding number of the map. Only
+        after a certain number of players have voted for the map which one
+        player has started a vote on, will the sever change map.</p>
+        <blockquote>
+         <i>Note: Server admins who want to add new maps must also
+        add an entry into mapcycle.txt,  that allows players to vote on any new maps.</i></p>
+        </blockquote>
+         &nbsp;</p>
+        <p class="heading"><a name="AdvancedUsers"><b>Advanced users</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+         <b>Console Commands</b><br>
+        These can be entered during the game by typing them in the console. The
+        default key to bring down the console is &lt;`&gt;(the tilde key ~). The
+        following is a list of all available Counter Strike specific console
+        commands
+        <blockquote>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<b>Server Options:</b><br>
+          These types of commands are generally called CVARS. The following
+          CVARS are only accessible by the server. To find the status of a CVAR,
+          enter its name. To change it, enter its name, leave a space, and then
+          enter the new value. Note: some of these do not take effect until the
+          round restarts.
+		  
+		    <p>
+           <font color="#182130"><b>mp_startmoney</b> (default 800)</font><br>
+          Sets the amount of money players start with.
+
+		    <p>
+           <font color="#182130"><b>mp_logdetail</b> (default 0)</font><br>
+          Bitwise cvar to set the level of detail for logging attacks (bit 0: log enemy attacks, bit 1: log teammate attacks).
+
+ 
+		  
+		    <p>
+           <font color="#182130"><b>mp_fadetoblack</b> (default 0)</font><br>
+         When set to 1, player's screen fades to black for the remainder of the round when he dies
+(hud still works normally so player can chat and see the scores, etc.) Overrides mp_forcechasecam
+		  
+		    <p>
+           <font color="#182130"><b>mp_buytime</b> (default 1.5)</font><br>
+      Designate the desired amount of buy time for each round. Min buy time is .5 minutes. No max buy time.
+		  
+		  
+		  
+		    <p>
+           <font color="#182130"><b>mp_winlimit</b> (default 0)</font><br>
+          Will cycle the map after one team reaches this many wins.
+		  
+		  <p>
+           <font color="#182130"><b>mp_limitteams </b>(default 2)</font><br>
+          Maximum number of players that one team can have over the other. To
+          entirely disable team limiting, set to 0.
+		  
+		  <p>
+		  
+		  
+           <font color="#182130"><b>sv_restartround</b> (default 0 sec)<br>
+          </font>Time until the game restarts fresh, or 0 to not restart. This
+          will reset all frags, scores, weapons and money to default. Use this
+          to coordinate clan matches.</p>
+		  
+           <font color="#182130"><b>mp_autokick</b> (default 1)</font><br>
+          Enable automatic team-killer banning and idle client kicking.</p>
+		  
+		     <font color="#182130"><b>mp_autoteambalance</b> (default 1)</font><br>
+          Toggles auto balancing of teams.</p>
+		  
+		  
+           <font color="#182130"><b>mp_chasecam</b> (default 0)</font><br>
+          Limit observers to chase modes.</p>
+		  
+		  
+       
+		  
+		  
+		  
+           <font color="#182130"><b>mp_c4timer</b> (default 45 sec)</font><br>
+          C4 timer duration. Minimum of 15, maximum of 90.</p>
+		  
+		  
+           <font color="#182130"><b>mp_freezetime</b> (default 6 sec)</font><br>
+          The length in seconds of the Freeze period at the beginning of rounds.
+          Set to 0 to disable.</p>
+		  
+           <font color="#182130"><b>mp_roundtime</b> (default 5 min)</font><br>
+          Min round time is 1 min. Max round time is 9 min. Supports partial minutes (1.5 is 90 seconds).</p>
+		  
+           <font color="#182130"><b>mp_friendlyfire</b> (default 0)</font><br>
+          Set to 1 to enable friendly fire, 0 to disable.</p>
+		  
+		  
+           <font color="#182130"><b>mp_timelimit</b> (default 0 min)</font><br>
+          Period between map rotations.</p>
+		  
+		  
+		  
+		   <font color="#182130"><b>mp_maxrounds</b> (default 0)</font><br>
+          Maximum number of rounds to be played on a map, leave at 0 to obey mp_timelimit.</p>
+		  
+		  
+		  
+           <font color="#182130"><b>mp_footsteps</b> (default 1)</font><br>
+          Set to 1 to enable footsteps, 0 to disable.</p>
+		  
+           <font color="#182130"><b>mp_flashlight</b> (default 1)</font><br>
+          Set to 1 to enable the use of flashlights, 0 to disable.</p>
+		  
+		  
+  
+		  
+		  
+           <font color="#182130"><b>mp_tkpunish</b>  0/1 </font><br>
+          if set to 1, TK'ers will sit out next round<br>
+          <br>
+          <font color="#182130"><b>mp_hostagepenalty</b>   X</font> <br>
+          X = max. number of hostages you can kill before the server boots you out... setting this to 0 will shut off this command<br>
+          <br>
+          <font color="#182130"><b>mp_logmessages</b>  0/1 </font><br>
+          used for server admins to spit out chat messages in their log files<br>
+         <p>
+          <font color="#182130"><b>mp_forcechasecam</b>  0/1/2<br></font><font color="#182130">
+		  
+		  When set to 2, not allowed to spectate anyone...player's view stays where the player dies. When set to 1 only allowed to spectate player's own team when player dies. Default 0.
+		  
+          </font>
+        <p>
+		
+		<hr width="20%" align="left" noshade size="1" color="#182130">
+		<p>
+		
+		
+		
+		
+		
+		
+		
+           <b>Client Options:</b><br>
+          Anyone can use these to alter their personal settings.
+		  <p>
+		  
+           <font color="#182130"><b>cl_observercrosshair</b> (default 1)</font><br>
+          Set to 1 to enable crosshairs in Observer mode, 0 to disable.</p>
+		  
+           <font color="#182130"><b>cl_hidefrags</b> (default 1)</font><br>
+          Set to 1 to hide all frag/death counts on the Scoreboard but your own,
+          0 to show.</p>
+		  
+           <font color="#182130"><b>hud_centerid</b> (default 0)</font><br>
+          Set to 1 to center auto-ID text on screen, 0 to have auto-ID text in
+          the bottom left corner.</p>
+		  
+           <font color="#182130"><b>lefthand</b> (default 1)</font><br>
+          Set to 1 to use left hand, 0 to use right.</p>
+		  
+           <font color="#182130"><b>max_shells</b>   X</font> 
+		   <br>
+          X = maximum number of shells at one time<br>
+          <br>
+          <font color="#182130"><b>max_smokepuffs</b>   X </font><br>
+          X = max. number of smoke puffs at one time</p>
+           <font color="#182130"><b>fastsprites</b> X&nbsp;</font><font color="#182130">
+          </font><br>
+          x = 0   : regular transparent smoke grenade sprites<br>
+          x = 1   : simple transparent smoke grenade sprites (default)<br>
+          x = 2   : VERY simple transparent smoke grenade sprites</p>
+		  
+           <font color="#182130"><b>adjust_crosshair</b> </font><br>
+          Each time you type this into the console your crosshair changes
+          colour. There are 5 colours to choose from.</p>
+		  
+           <font color="#182130"><b>con_color</b></font> <br>
+          Change the colour of your HUD. Like con_color "256 256 256" numeric values can be found by
+          looking in most paint packages.</p>
+		  
+           <font color="#182130"><b>timeleft</b>&nbsp;</font> <br>
+          Tells you how much time is left on the map</p>
+		  
+           <font color="#182130"><b>setinfo vgui_menus</b> X</font> <font color="#182130"><br>
+          </font>{X = 0 or 1,  0 disables VGUI menus, 1 enables VGUI menus}<br>
+          (also available through the "Play CS" > "Customize" menu)<br>
+		  
+          <br>
+          <font color="#182130">*Note: If the buy weapon system malfunctions, disable the vgui<br>
+          through the "Play CS" > "Customize" menu</font></p>
+           Infokey settings. Type &quot;setinfo&quot; to check
+          the status of all infokey settings. To change one, type &quot;setinfo
+          &lt;keyname&gt; &lt;value&gt;&quot;.
+           <b>InfoKey Keynames</b>
+           <font color="#182130">dm (default 1)</font><br>
+          Set to 1 to display map briefings after loading new levels, 0 to
+          disable.</p>
+		  
+		  
+          
+
+           <font color="#182130">ah (default 1)</font><br>
+          Set to 1 to enable auto-help, 0 to disable. Auto-help gives the player
+          hint messages throughout the game.</p>
+           &nbsp;</p>
+        </blockquote>
+		
+		
+		<br>
+		<b>Version History:</b><hr width="20%" align="left" noshade size="1" color="#182130">
+		<p>
+		
+		
+		
+v1.3<br>
+-----<br>
+[9.5.01]<br><br>
+
+Changes/Additions:<br>
+------------------<br>
+- Multicast spectator added.<br>
+- Voice communication added.<br>
+- Added server chat to logging.<br>
+- Redesigned multiplayer scoreboard.<br>
+- CapsLock key is now bindable.<br>
+- Switching to Spectator is now logged.<br>
+- Changed minimum value for "mp_chattime" to 1 second<br>
+- Changed minimum value for "mp_buytime" to 0.25 (15 seconds)<br><br>
+
+New CVARS :<br>
+-----------<br>
+"mp_logdetail"<br>
+Bitwise cvar to set the level of detail for logging attacks.<br>
+Bit 0  - Log Enemy Attacks<br>
+Bit 1  - Log Teammate Attacks<br>
+default: 0<br>
+Usage:<br>
+"mp_logdetail 0"   - Log no attacks<br>
+"mp_logdetail 1"   - Log enemy attacks<br>
+"mp_logdetail 2"   - Log teammate attacks<br>
+"mp_logdetail 3"   - Log enemy AND teammate attacks<br><br>
+
+"mp_startmoney"<br>
+Sets the amount of starting money players may have.<br>
+maximum: 16000<br>
+minimum: 800<br>
+default: 800<br><br>
+
+Bug Fixes :<br>
+-----------<br>
+- Bunny hopping removed.<br>
+- Fixed banned.cfg problem with more than 1024 entries.<br>
+- Fixed screenshots overwriting each other.<br>
+- Buffer overflow exploit fixed.<br>
+- "condump", "cmdlist", and "cvarlist" only write out to the game directory.<br>
+- Fixed Spectator mode bug.<br>
+- Fixed hitbox issues.<br>
+- Fixed nightvision bug.v
+- Fixed "slot10" not working correctly.<br><br>
+
+v1.1<br>
+-----<br>
+[3.7.01]<br><br>
+
+Changes/Additions:<br>
+------------------<br>
+- Added spectator mode -- allow_spectators (0/1)<br>
+- Terrorist bomb backpack re-added<br>
+- Upgraded player models to 512X512 textures<br>
+- Terrorist defuse kit pack re-added<br>
+- Made jumping while shooting more inaccurate<br>
+- Took out sniper crosshair when zoomed out<br>
+- AWP leg shots now non-lethal<br>
+- Swimming animation added to models<br>
+- Status bar text uses team colors<br>
+- All CS Strings localized to titles.txt<br>
+- Added option to take "end game" screenshot<br>
+- Length of MOTD increased to 1536<br>
+- Added cs_thunder, de_rotterdam, de_inferno, & de_dust2<br>
+- Upgraded de_dust de_cbble, de_aztec, cs_siege, de_vegas, & cs_italy<br>
+- Logic used to cycle the map has been changed.  The map will cycle if<br>
+  one of three conditions has been met: "mp_timelimit" has been met,<br>
+  "mp_winlimit" rounds have been won by one of the teams, or "mp_maxrounds" <br>
+  have been played.<br>
+- Fixed many cheats<br>
+- Changed logging format to meet the standars @:<br>
+  http://www.hlstats.org/logs/<br>
+	Several events have been added to the logs:<br>
+	a) "Begin_Bomb_Defuse_Without_Kit"<br>
+	b) "Begin_Bomb_Defuse_With_Kit"<br>
+	c) "Spawned_With_The_Bomb"<br>
+	d) "Dropped_The_Bomb"<br>
+	e) "Got_The_Bomb"<br>
+	f) "Became_VIP"<br>
+	g) "Escaped_As_VIP"<br>
+	h) "Round_Start"<br>
+	i) "Round_End"<br><br>
+
+
+Bug Fixes:<br>
+----------<br>
+- "Out of ammo" hint message fixed<br>
+- "Punished for tk" hint message fixed<br>
+- "Through floor" death animation fixed<br>
+<br>
+
+New/Changed CVARS:<br>
+------------------<br><br>
+
+mp_playerid <br>
+Toggles what information players see in the status bar<br>
+0 everyone: players see all names listed in the status bar (with appropriate<br>
+team colors)<br>
+1 team only: players only see names for their teammates and hostages in the<br>
+status bar<br>
+2 off: players do not see any names in the status bar (hostages included)<br>
+0 is the default<br>
+<br>
+
+mp_fadetoblack (overrides mp_forcechasecam)<br>
+0 nothing<br>
+1 player's screen fades to black for the remainder of the round when he dies<br>
+(hud still works normally so player can chat and see the scores, etc.)<br>
+0 is the default<br>
+<br>
+
+mp_forcechasecam<br>
+0 free to spectate anyone when player dies<br>
+1 only allowed to spectate player's own team when player dies<br>
+2 not allowed to spectate anyone...player's view stays where the player dies<br>
+0 is the default<br>
+<br>
+
+mp_buytime (float)<br>
+Can now designate the desired amount of buy time for each round<br>
+min buy time is .5 minutes<br>
+no max buy time<br>
+Example: mp_buytime 1.8   // 108 seconds of buy time<br>
+1.5 min is the default (CS 1.0 buy time)<br>
+
+<br>
+mp_roundtime (float)<br>
+Changed to support partial minutes<br>
+min round time is 1 min<br>
+max round time is 9 min<br>
+Example: mp_roundtime 1.3   // 78 seconds<br>
+5 min is the default (CS 1.0 round time)<br>
+<br>
+
+mp_winlimit<br>
+Will cycle the map after one team reaches this many wins <br>
+0 is the default (no win limit)<br>
+<br>
+
+mp_timelimit (float)<br>
+Fixed to support 0 (no time limit)<br>
+Example: mp_timelimit 17.2   //  17 minutes 12 seconds<br>
+0 is the default<br>
+<br>
+
+allow_spectators<br>
+0 Do not allow spectators<br>
+1 Allow spectators<br>
+
+<br><br>
+		
+		
+v1.0<br>
+-----<br>
+[11.8.00]<br>
+- added three new weapons:<br>
+  (H&K UMP .45, FN Five-Seven, & SIG SG-550)<br>
+- redone player models<br>
+- incorporated Valve's model blending technology<br>
+- left beta stages<br>
+<br>
+<br>
+
+BETA 7.1<br>
+--------<br>
+[9.13.00]<br>
+
+- fixed de_vegas crashing<br>
+- tweaked burst fire accuracy system<br>
+- slightly improved vehicle code<br>
+- included missing skies (for cs_arabstreets, de_train)<br>
+- fixed mp_timelimit bug<br>
+- added APC to cs_siege<br>
+- new server variable, "mp_maxrounds X"   {X = maximum number of rounds to be played on a map, if X = 0, then maps will rotate based on mp_timelimit}<br>
+- fixed crosshairs {They now expand regardless of lag}<br>
+- fixed player heights {Player's POV is now representative of the third person player model}<br>
+- fixed shotgun not showing up in VGUI menus in as_ maps for CTs<br>
+- included new death icon for headshots<br>
+<br>
+<br>
+
+BETA 7.0<br>
+--------<br>
+[8.26.00]<br>
+
+- added dual Berettas<br>
+- added redone Knife Model (added a secondary attack mode for knife)<br>
+- fully implemented VGUI<br>
+- added new player model (Seal Team 6)<br>
+- added several new player animations<br>
+- fixed locked chasecam<br>
+- gave VIP a USP<br>
+- added cs_office, as_highrise, cs_arabstreets, de_foption & de_vegas<br>
+- fixed many bugs & exploits<br>
+- added driveable vehicle support<br>
+- added driveable vehicle test map de_jeepathon2000<br>
+
+<br>
+<br>
+
+
+BETA 6.6<br>
+--------<br>
+[6.22.00]<br>
+
+- added new command 'timeleft'<br>
+- fixed stalled connection bug<br>
+- new sniper crosshair<br>
+- fixes "laggy rifle firing"<br>
+- fixed many cheats<br>
+- updated cs_estate<br>
+<br>
+<br>
+
+
+BETA 6.5<br>
+--------<br>
+[6.8.00]<br>
+
+- Integrates Valve's rewrite of the HL networking system<br>
+- Added Smoke Grenade<br>
+- Added "Gorilla Warface" player model<br>
+- Redone models for .45 USP, M3,  SG-552, and Colt M4A1 <br>
+- Added more realistic smoke f/x, and shell ejection<br>
+- Added Valve's Chasecam modes (roam, free, and locked)<br>
+- Integrates Nighthawk's Model Bounds Checker algorithm<br>
+- Added as_forest.bsp, de_cbble.bsp, de_aztec.bsp, as_tundra.bsp, cs_italy, es_trinity, cs_estate<br>
+- Added map voting system<br>
+- Updated maps<br>
+
+<br>
+<br>
+
+
+BETA 6.1<br>
+[server side only]<br>
+--------<br>
+[3.24.00]<br>
+- off center shooting fixed<br>
+- greatly improved nightvision<br>
+- can buy nightvision using the 'buyequip' command<br>
+- ammo bugs fixed<br>
+- 120 round limit for the mp5 and tmp<br>
+- prisoners are notified when someone escapes<br>
+- draw games eliminated, now scenario specific<br>
+- new TK 1 round "time-out" penalty <br>
+<br><br>
+
+BETA 6.0<br>
+--------<br>
+[3.10.00]<br>
+
+- added MAC-10 weapon<br>
+- added Steyr Aug weapon<br>
+- added new gametype: Assassination (as_x)<br>
+- added new gametype: Escape (es_x)<br>
+- added right and left handed weapons<br>
+- added new radar tracking for teammates<br>
+- re-added Night Vision Goggles<br>
+- added new Terrorist Snow player model<br>
+- added new CT French GIGN player model<br>
+- tweaked player speeds / acceleration<br>
+- added new radio commands<br>
+- redone mp5 model / animations<br>
+- added maps de_fang, es_jail, es_frantic,<br>
+  as_oilrig, as_riverside, cs_747<br>
+- updated previous maps<br>
+
+<br><br>
+
+
+BETA 5.2<br>
+--------<br>
+[1.10.00]<br>
+
+- Fixed crashing bugs <br>
+- Implemented a new lower bandwidth chasecam<br>
+- Prevented players from changing name when they're dead<br>
+- Fixed scoreboard not showing 20 players<br>
+- Show scoreboard at the end of the map rotation<br>
+<br><br>
+
+
+BETA 5.0<br>
+--------<br>
+[12.23.99]<br>
+
+New Content:<br>
+- Added Benelli XM 1014 fully automatic shotgun<br>
+- New Hostage model and two new skins.<br>
+- SAS model added as a selectable CT<br>
+- Added maps cs_backalley and de_train<br>
+- Updated maps cs_station, de_nuke, de_dust, and de_prodigy<br>
+- New icons for HUD (money, weapons, armor, timer, C4, defuse Kit, scoreboard)<br>
+- Added buy zones, reload zones, hostage, and bomb target zones to HUD.<br>
+- an extensive help manual located at \half-life\cstrike\manual\index.htm.<br>
+- Verbose Auto-help<br>
+- added auto-id<br>
+<br>
+Gameplay Changes:<br>
+- C4 is now an equipment item in slot 5 (to plant, select then hold down fire)<br>
+- C4 can only be planted in bomb delivery zone<br>
+- To defuse a bomb Counter Terrorists must target C4, press and hold the USE key<br>
+- CTs can defuse C4 without a defuse kit in 10 seconds<br>
+- CTs can defuse C4 with a defuse kit in 5 seconds <br>
+- A progress meter is added showing CTs their progress defusing a bomb<br>
+- A progress meter is added showing Ts their progress planting a bomb (this takes 3 seconds)<br>
+- Defuse kit now an item which can be purchased - Nobody starts with a defuse kit<br>
+- Defusing bomb wins round for Counter Terrorists<br>
+- C4 can be dropped for other teammates<br>
+- Hostages are automatically rescued at hostage rescue zones<br>
+- Counter Terrorist and Terrorist teams are now labeled<br>
+- Individual frags can be toggled on or off<br>
+- Ghosts can be made visible to other ghosts (client defined)<br>
+- Pre-Round grace timer standard setting 6 seconds (server defined)<br>
+- Three observer modes: classic ghost, locked chasecam and freelook chasecam ( press jump to toggle)<br>
+- Auto-find teammate in observer mode (primary fire)<br>
+- New radio messages and organization of radio keys (standard, group and report messages)<br>
+- Can hear other players reloading<br>
+- Mission briefing added to maps (can also be invoked during round)<br>
+<br><br>
+
+
+BETA 4.1<br>
+--------<br>
+[12.1.99]<br>
+
+[server side only release]<br>
+-team chat while dead works<br>
+-icon mixup for bomb/defuser fixed<br>
+-slightly less money given to losers<br>
+-allow Ts to pick up C4 if it's not planted in the proper spot (crouch)<br>
+-default C4 timer to 35 seconds<br>
+-toned down P228<br>
+-prevent players from buying stuff when they're dead by using aliases<br>
+-accuracies tweaked<br>
+
+<br><br>
+
+BETA 4.0<br>
+--------<br>
+[11.5.99]<br>
+
+- Added Sig P228 pistol, and Steyr Scout sniper rifle<br>
+- Added new gameplay scenario involving C4 bombs<br>
+- tweaked firing system for all guns<br>
+- added High-Explosive (HE) grenades<br>
+- modified hostage rescue scenario (rescuing 50% of the hostages will result in a CT win)<br>
+- modified kick vote system (only 65% of a team is needed to kick vote someone off)<br>
+- loose guns are removed at the start of a round. (no more gun running)<br>
+- loser bonuses are increased to allow the losing team to stand a fighting chance<br>
+- altered money bonuses for rescuing hostages :<br>
+- added cs_station, de_nuke, de_dust, de_prodigy<br>
+- modified cs_ship, cs_siege, cs_docks, cs_tire, cs_facility<br>
+- automatic flashbang .wav added back<br>
+- new, closer rescue points added to cs_ship, cs_siege, cs_tire<br>
+- new ammo system, primary and secondary (less mind boggling)<br>
+<br><br>
+
+
+BETA 3.1<br>
+--------<br>
+[9.16.99]<br>
+
+- Bullet penetration bug fixed<br>
+- Radio .wav's now have lower volume<br>
+- Removed automatic .wav's (death, flashbang)<br>
+- fixed MRAD_ENEMYSPOTTED error<br>
+- Disorientation system changed<br>
+- Added "ignoreradio" command to only ignore .wav's<br>
+- Flashbang Shrapnel altered<br>
+
+<br><br>
+
+BETA 3.0<br>
+--------<br>
+[9.14.99]<br>
+
+- Added a knife weapon for those last resort situations<br>
+- Added a kevlar+helmet combination<br>
+- *GREATLY* improved hostage path AI<br>
+- Added concussion grenades which shoot out shrapnel as well as a bright flash<br>
+- Added a new weapon, the Fabrique Nationale P90 submachine gun<br>
+- Added a radio system<br>
+- Modified the scoreboard<br>
+- modified the shotgun<br>
+<br><br>
+
+
+BETA 2.1<br>
+--------<br>
+[8.17.99]<br>
+
+- added new vesion of cs_assault (compatible w/ hlserver.exe)<br>
+- added scientist model for hlserver.exe<br>
+- added assault's proper sky<br>
+- fixed telefragging  (cs_alley will no longer telefrag)<br>
+- fixed dropweapon<br>
+- fixed those spurious 'player joined' messages<br>
+- changed Ak-47 price<br>
+<br><br>
+
+
+BETA 2.0<br>
+--------<br>
+[8.13.99]<br>
+
+NEW Features :<br>
+- Three new guns added : {Sig SG-552 Commando , AK-47 , Desert Eagle}<br>
+- Added silencers to the USP .45 Tactical and the Colt M4A1<br>
+- Added a round timer which shows how much time is left in the round<br>
+- Added team scores which shows how many rounds a team has won<br>
+- Added Night Vision Goggles<br>
+- Added new entity for mappers to use (info_hostage_rescue)<br>
+- Optimized all the models for lower r_speeds!<br>
+- Ability to assign keys to all of the commands from the controls menu  <br>
+  (courtesy of cannelbrae of Gunman project)<br>
+
+<br><br>
+
+BETA 1.2<br>
+--------<br>
+[7.20.99]<br>
+
+- 5 second "molasses period" at the start of all rounds to dissuade rushing tactics <br>
+- kick option added<br>
+- Refined the prices for some of the gunS<br>
+- made the kevlar MUCH more effective (it now covers people's arms) <br>
+- made jumping and shooting MUCH more inaccurate for all the guns<br>
+- added a $16,000 salary cap <br>
+- tweaked the bonus money awards. <br>
+- tweaked the flashbangs effectiveness<br>
+
+<br><br>
+
+BETA 1.1<br>
+--------<br>
+[6.27.99]<br>
+
+- greatly improved server stability, crashes should be eliminated<br>
+- primary servers will now work with CS<br>
+- fixed the ammo and armour reset bugs<br>
+- balanced the economic system a bit<br>
+- added new firing mode for the glock18<br>
+- enabled 'mp_friendlyfire' command for server admins<br>
+- fixed map rotation<br>
+- adds two new maps: cs_assault & cs_desert<br>
+- cs_siege fixes<br>
+- cs_wpndepot fixes<br>
+<br><br>
+
+
+BETA 1.0<br>
+--------<br>
+[6.19.99]<br>
+Features :<br>
+
+- weapons: usp, glock, shotgun, m4a1, mp5 navy, TMP, awp, G3/SG-1 & FN M249 PARA <br>
+- hostage rescue scenario<br>
+- custom maps: cs_siege, cs_mansion, cs_wpndepot, cs_prison<br>
+		
+		
+		
+		
+		
+		
+		
+		<br><br><br><br>
+		
+		
+		
+        <p class="heading"><a name="Credits"><b>Special Thanks</b></a>
+        <hr width="20%" align="left" noshade size="1" color="#182130">
+       
+        SAS, Oddjob; Mr. Grim; and Dallas Frank of the A-Team; Michael Thomas Gihl; Hyperboy; Brent Bussey; Valve Software; Art Min; Gabe Newell; Yahn Bernier; Erik Johnston; g0@t; Stikky, Drilla & Adrian @ Gameplay; Razoredge; Little Rizzuh; Redm; BizzyBlaster; D0gzilla; Chris Mair; Barking Dog Studios; Mutated Jellyfish; Darkman; Justin Bunnell; Hal; Tactic; Bigfoot; Jason "Malhavoc" Nugent; Jcal; Redwood; Gary Aardnt; everyone @ Stomped.com; Leon Hartwig; Arcticom's Fro; shirow; Geronimo; John Jensen; @sspennies; Eyeburn; all the server admins who have helped us test .dll's; RzE; all the CS mappers and texture artists. 
+         &nbsp;</p>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</td>
+</tr>
+</table>
+
+			
+			
+			
+			
+			
+			
+			
+			</td>
+</tr>
+</table>
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		  
+		  
+		  <table align="center" bgcolor="#1f2d45" width="750" cellspacing="0" cellpadding="0" border="0">
+<tr>
+    <td><font size=1>.</font></td>
+</tr>
+</table>
+ 
+	<font face="arial" size="1">
+	&copy; 2001 : Counter-Strike --  [manual by <A HREF="mailto:cliffe@counter-strike.net">Cliffe</A> & SAS] 
+	</font>
+	<p>
+		
+	</CENTER></BODY></HTML>

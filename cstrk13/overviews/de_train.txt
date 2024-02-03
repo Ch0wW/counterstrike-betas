@@ -1,0 +1,14 @@
+// overview description file for de_train.bsp
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	32 	156	-360
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_train.bmp"
+	HEIGHT	-360
+}

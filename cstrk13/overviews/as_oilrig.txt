@@ -1,0 +1,14 @@
+// overview description file for as_oilrig.bsp
+
+global 
+{
+	ZOOM	2.67
+	ORIGIN	647 	-732	-1110
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/as_oilrig.bmp"
+	HEIGHT	-1110
+}
