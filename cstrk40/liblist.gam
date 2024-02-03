@@ -1,0 +1,13 @@
+game "CounterStrike" // Game title
+       url_info "www.counter-strike.net" // Info URL
+       url_dl "" // Downloading URL
+       version "BETA 4.0" // version of mod
+       size "Xtra-Large" // size of mod
+       svonly "0" // server side only mod? (1=yes 0=no)
+       cldll "0" // client side dll? (1=yes 0=no)
+       hlversion "1013" // version of halflife
+       type "multiplayer_only" // type of mod--don't know values that go here..
+       nomodels "1" // game selects player model (1=yes 0=no)
+       mpentity "info_player_start" // name of multiplayer spawn entity
+       gamedll "dlls\mp.dll" // file and location of dll
+       gamedll_linux "dlls/mp_i386.so"
