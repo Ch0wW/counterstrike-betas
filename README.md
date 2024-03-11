@@ -5,8 +5,8 @@
 - [x] **Linux**
 
 ## Recommended Half-Life / HLDS version to play
-- Windows: Half-Life v1.1.0.4 
-- Linux: Half-Life Dedicated Server v3.1.0.4
+- Windows: Half-Life v1.1.1.0
+- Linux: Half-Life Dedicated Server v3.1.1.0
 _____
 
 # Changelog
