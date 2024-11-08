@@ -16,28 +16,28 @@ All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for
 
 | Version | Linux | Repository | Download |
 | -------- | ------- | -------- | -------- |
-| CS 1.5 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
-| CS 1.4 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
-| CS 1.3 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
-| CS 1.1c | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
-| CS 1.1b | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Included since CS 1.1 |
-| CS 1.1 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
-| CS 1.0b | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
-| CS 1.0 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
+| CS 1.5 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
+| CS 1.4 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
+| CS 1.3 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
+| CS 1.1c | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
+| CS 1.1b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Included since CS 1.1 |
+| CS 1.1 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
+| CS 1.0b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
+| CS 1.0 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
 
 # Betas
 | Version | Linux | Last supported build | Repository | Download |
 | -------- | ------- | ------- | -------- | -------- |
-| Beta 5.2 | ✔ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
-| Beta 5.0 | ✔ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
-| Beta 4.1 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta41) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta41.zip) |
-| Beta 4.0 | ✔ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta40) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta40.zip) |
-| Beta 3.1 | ✔ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta31) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta31.zip) |
-| Beta 3.0 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta30) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta30.zip) |
-| Beta 2.1 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta21) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta21.zip) |
-| Beta 2.0 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta20) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta20.zip) |
-| Beta 1.1 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
-| Beta 1.0 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
+| Beta 5.2 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
+| Beta 5.0 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
+| Beta 4.1 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta41) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta41.zip) |
+| Beta 4.0 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta40) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta40.zip) |
+| Beta 3.1 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta31) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta31.zip) |
+| Beta 3.0 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta30) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta30.zip) |
+| Beta 2.1 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta21) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta21.zip) |
+| Beta 2.0 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta20) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta20.zip) |
+| Beta 1.1 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
+| Beta 1.0 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
 
 
 ## Download version
