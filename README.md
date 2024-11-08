@@ -22,7 +22,7 @@ All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for
 | CS 1.1c | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
 | CS 1.1b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Included since CS 1.1 |
 | CS 1.1 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
-| CS 1.0b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
+| CS 1.0b | ❌ (windows DLL only) | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
 | CS 1.0 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
 
 # Betas
