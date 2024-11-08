@@ -48,24 +48,17 @@ All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for
 | Beta 1.0 | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
 
 # Additional informations
-### Windows-Only binaries 
-**These versions of Counter-Strike do __NOT__ seem to have Linux support!**
-- Counter-Strike Beta 1.0
-- Counter-Strike Beta 1.1
-- Counter-Strike Beta 2.0
-- Counter-Strike Beta 2.1
-- Counter-Strike Beta 3.0
-
-If these versions **DO** have Linux support (I'm pretty sure some might have but aren't to be found), please open an issue along with the required files so that I could update them.
 
 ### Missing CS versions
-
 The following versions of Counter-Strike are missing from this repository. Maybe they are missing, or are no longer available. If you do have them, please let me know through an issue file.
-- [ ] Counter-Strike Beta 1.2
+- [ ] Counter-Strike Beta 1.0 Linux (`ln_csbeta10.tar.gz`)
+- [ ] Counter-Strike Beta 2.0 Linux
+- [ ] Counter-Strike Beta 3.0 Linux
+- [ ] Counter-Strike Beta 1.2 
+- [ ] Counter-Strike Beta 6.2 Linux
 - [ ] Counter-Strike Beta 6.7
 - [ ] Counter-Strike Beta 6.8
-- [ ] Counter-Strike Beta 7.1a
-
+- [ ] Counter-Strike Beta 7.1a Linux
 
 # Related projects:
 - [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
