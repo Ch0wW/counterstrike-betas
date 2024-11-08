@@ -1,8 +1,8 @@
-# Counter-Strike Beta 6.5
+# Counter-Strike Beta 6.5d
 
 ## Supported versions
-- [x] **Windows**
-- [x] **Linux**
+- [x] **Windows** (v6.5)
+- [x] **Linux** (v6.5d)
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6 
@@ -12,6 +12,15 @@ _____
 # Changelog
 
 ```
+BETA 6.5d
+[??.??.??]
+- Advanced model checking to keep cheaters out
+- Linux server bug of not being able to hear other players' footsteps fixed
+- Faster load times
+- Fixed connection problems
+- Fixed gun-jamming
+
+
 BETA 6.5
 --------
 [6.5.00]
