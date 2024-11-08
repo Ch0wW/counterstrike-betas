@@ -11,8 +11,11 @@ Each folder of Counter-Strike has been renamed to properly differenciate them fr
 # Versions branches
 
 # Retail
-| Version | Linux | Link | Download |
-| -------- | ------- | ------- | -------- | -------- |
+
+All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for HL1 (requires modifications).
+
+| Version | Linux | Repository | Download |
+| -------- | ------- | -------- | -------- |
 | CS 1.5 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | ✔ | [Repository](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
@@ -26,7 +29,7 @@ Each folder of Counter-Strike has been renamed to properly differenciate them fr
 
 
 # Betas
-| Version | Linux | Last supported build | Link | Download |
+| Version | Linux | Last supported build | Repository | Download |
 | -------- | ------- | ------- | -------- | -------- |
 | Beta 1.0 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
 | Beta 1.1 | ❌ | `HL 1.0.1.6` | [REPO](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
