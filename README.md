@@ -1,8 +1,8 @@
 # Counter-Strike Version 1.0b
 
 ## Supported versions
-- [x] **Windows**
-- [x] **Linux**
+- [x] **Windows** (v1.0b)
+- [x] **Linux** (v1.0)
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.1.1.0
@@ -12,7 +12,6 @@ _____
 # Changelog
 
 ```
-
 v1.0b
 [25.1.01]
 - Fixed the problem with some clients lagging for a round or two at the beginning of a map.
