@@ -1,4 +1,4 @@
-# Counter-Strike Version 1.0 
+# Counter-Strike Version 1.0b
 
 ## Supported versions
 - [x] **Windows**
@@ -12,6 +12,13 @@ _____
 # Changelog
 
 ```
+
+v1.0b
+[25.1.01]
+- Fixed the problem with some clients lagging for a round or two at the beginning of a map.
+- Fixed the "listmaps" command so it displays all the maps.
+- Other fixes.
+
 v1.0
 -----
 [11.8.00]
