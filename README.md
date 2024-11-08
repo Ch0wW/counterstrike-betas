@@ -6,7 +6,7 @@ This repository contains most of the official releases of Counter-Strike Pre-1.6
 
 If possible, Linux binaries are also provided, avoiding the need to redownload files twice, or to research them. In addition to that, all versions of Counter-Strike contains a `README.md` file providing all the informations you need, such as the recommended release of Half-Life to run these mods.
 
-Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint.
+Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint with the exception of very specific builds of Counter-Strike (CS 1.1, CS 1.0, ).
 
 # Versions branches
 
@@ -14,19 +14,20 @@ Each folder of Counter-Strike has been renamed to properly differenciate them fr
 
 All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for HL1 (requires modifications).
 
-| Version | Linux | Repository | Download |
+| Version | Linux Support? | Repository | Download |
 | -------- | ------- | -------- | -------- |
 | CS 1.5 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
+| CS 1.2 | ✔ | [❌](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | This was only an engine update, no change from 1.1 |
 | CS 1.1c | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
-| CS 1.1b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Included since CS 1.1 |
+| CS 1.1b | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Already included in CS 1.1 |
 | CS 1.1 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
-| CS 1.0b | ❌ (windows DLL only) | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
+| CS 1.0b | ❌ (Windows DLL only) | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
 | CS 1.0 | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
 
 # Betas
-| Version | Linux | Last supported build | Repository | Download |
+| Version | Linux Support? | Last supported build | Repository | Download |
 | -------- | ------- | ------- | -------- | -------- |
 | Beta 5.2 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
 | Beta 5.0 | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
@@ -39,13 +40,6 @@ All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for
 | Beta 1.1 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
 | Beta 1.0 | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
 
-
-## Download version
-To get the version of Counter-Strike you wish to install, you will need to select a branch. It is visible on the left side of the GitHub repository.
-
-Then, click on `<> Code`, and `Download ZIP`
-![Where to download the version of Counter-Strike.](https://github.com/ch0ww/counterstrike-betas/blob/main/images/download_version.png?raw=true)
-
 # Additional informations
 ### Windows-Only binaries 
 **These versions of Counter-Strike do __NOT__ seem to have Linux support!**
@@ -54,8 +48,6 @@ Then, click on `<> Code`, and `Download ZIP`
 - Counter-Strike Beta 2.0
 - Counter-Strike Beta 2.1
 - Counter-Strike Beta 3.0
-- Counter-Strike Beta 5.0
-- Counter-Strike Beta 6.0
 
 If these versions **DO** have Linux support (I'm pretty sure some might have but aren't to be found), please open an issue along with the required files so that I could update them.
 
@@ -63,9 +55,10 @@ If these versions **DO** have Linux support (I'm pretty sure some might have but
 
 The following versions of Counter-Strike are missing from this repository. Maybe they are missing, or are no longer available. If you do have them, please let me know through an issue file.
 - [ ] Counter-Strike Beta 1.2
+- [ ] Counter-Strike Beta 6.7
+- [ ] Counter-Strike Beta 6.8
 - [x] ~~Counter-Strike Beta 2.1~~
-- [ ] Counter-Strike Beta 4.1
-- [ ] Counter-Strike Release 1.2
+- [x] Counter-Strike Beta 4.1
 
 
 # Related projects:
