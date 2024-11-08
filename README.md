@@ -2,7 +2,7 @@
 
 ## Supported versions
 - [x] **Windows**
-- [ ] Linux (missing server binaries)
+- [ ] Linux (did not exist at the time.)
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6 
@@ -25,4 +25,4 @@ BETA 2.1
 ```
 
 #### Addentum
-This version isn't from the original installer, but the data modified from Beta 2.0 seems to be in order. Need to get the original file however in order to be 100% sure.
+Since this patch is extremely rare to be found, I decided to include it here.
