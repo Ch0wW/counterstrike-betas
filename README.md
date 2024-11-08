@@ -4,9 +4,9 @@
 
 This repository contains most of the official releases of Counter-Strike Pre-1.6, for preservation purposes. Installer files have already been extracted without any modification.
 
-If possible, Linux binaries are also provided, avoiding the need to redownload files twice, or to research them. In addition to that, all versions of Counter-Strike contains a `README.md` file providing all the informations you need, such as the recommended release of Half-Life to run these mods.
+If possible, Linux binaries are also provided, avoiding the need to redownload files twice, or to search for them. In addition to that, all versions of Counter-Strike contains a `README.md` file providing all the informations you need, such as the recommended release of Half-Life to run these mods, or the changelog if given.
 
-Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint with the exception of very specific builds of Counter-Strike (CS 1.1, CS 1.0, ).
+Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint with the exception of very specific builds of Counter-Strike (CS 1.1b/c, CS 1.0b), or serverside-only fixes (CSBeta 6.6a, 6.6b, 6.8 => `csbeta66`).
 
 # Versions branches
 
