@@ -31,9 +31,9 @@ All retail versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for
 | -------- | ------- | ------- | -------- | -------- | -------- |
 | Beta 7.1 | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip) |
 | Beta 7.0 | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta70) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta70.zip) |
-| Beta 6.6 | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta66) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta66.zip) |
-| Beta 6.5d | ❌ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta65.zip) |
-| Beta 6.5 | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d.zip) |
+| Beta 6.6 | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta66) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta66.zip) |
+| Beta 6.5d | ❌ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta65.zip) |
+| Beta 6.5 | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d.zip) |
 | Beta 6.1 | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta61) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta61.zip) |
 | Beta 6.0 | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta60) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta60.zip) |
 | Beta 5.2 | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
