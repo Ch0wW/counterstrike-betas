@@ -75,3 +75,9 @@ mp_forcechasecam  0/1
 Setting this to 1 will force chasecam to be teammate only
 (useful for LAN games)
 ```
+
+# Addentum
+
+Playing CSBeta 6.5 on Steam **__won't work__** as the client believes you're cheating!
+
+Either patch your `client.dll` to remove the "disconnect" command that's implied, or use the client DLL from beta 6.6.
