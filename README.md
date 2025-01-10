@@ -32,7 +32,7 @@ Depending on the beta, it is recommended to use Half-Life 1.1.1.0 (or Steam, wit
 
 | Version | Release Date | Windows? | Linux? | Last supported build | Repository | Download |
 | -------- | ------- | ------- | -------- | -------- | -------- | ------- |
-| Beta 7.1 | `September 13, 2000` |  ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip) |
+| Beta 7.1 | `September 13, 2000` |  ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta71) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip) |
 | Beta 7.0 | `August 26, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta70) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta70.zip) |
 | Beta 6.8 | `August 17, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
 | Beta 6.7 | `July 23, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
