@@ -19,7 +19,7 @@ All released mod-versions of Counter-Strike work with HL 1.1.1.0 or as a Steam M
 | CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
-| CS 1.2 | `June 30, 2001` | ✔ | ✔ | [❌](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | This was only an engine update, no change from 1.1 |
+| CS 1.2 | `June 30, 2001` | ✔ | ✔ | [❌](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Engine update only, no change from 1.1 |
 | CS 1.1c | `April 6, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
 | CS 1.1b | `N/C` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Already included in CS 1.1 |
 | CS 1.1 | `March 13, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
